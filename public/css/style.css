@@ -312,7 +312,7 @@ a:focus {
 	bottom: 9px;
 	right: 0px;
 	left: 23px;
-	background-color: #316397;
+	background-color: #3a4e40;
 	z-index: 1;
 }
 .industify_fn_mobilemenu_wrap .m_toll_free .shape1:before{
@@ -322,7 +322,7 @@ a:focus {
 	bottom: 0px;
 	right: 0px;
 	left: 46px;
-	background-color: rgba(255,255,255,.1);
+	background-color: rgba(240, 235, 235, 0.863);
 	z-index: 1;
 }
 .industify_fn_mobilemenu_wrap .m_toll_free .shape2{
@@ -330,7 +330,7 @@ a:focus {
 	left: 0px;
 	top: 9px;
 	border-top: 68px solid transparent;
-	border-right: 23px solid #316397;
+	border-right: 23px solid #242323;
 }
 .industify_fn_mobilemenu_wrap .m_toll_free .shape3{
 	position: absolute;
@@ -746,7 +746,7 @@ a:focus {
 	bottom: 0px;
 	right: 0px;
 	left: 46px;
-	background-color: rgba(0,0,0,.1);
+	background-color: rgba(236, 234, 234, 0.856);
 	z-index: 1;
 }
 .industify_fn_header .toll_free .shape2{

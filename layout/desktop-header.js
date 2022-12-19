@@ -20,7 +20,7 @@ export default function DesktopHeader() {
                     <div className="menu_logo">
                         <Link href="/"><a>
                             <div className="flex-col flex">
-                            <h3>Designation Dump</h3> <br /><h5> Waste Management Services</h5>
+                            <h3>Designation Dump LLC</h3> <br /><h5> Waste Management Services</h5>
                             </div>
                         </a></Link>
                     </div>

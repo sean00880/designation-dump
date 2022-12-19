@@ -16,40 +16,6 @@ export default function MobileHeader() {
 	return (
 		<>
 			<div className="industify_fn_mobilemenu_wrap">
-				<div className="industify_fn_toppanel">
-					<div className="left_panel">
-						
-						<div className="industify_fn_social_list">
-							<ul>
-								<li>
-									<Link href="#"><a target="_blank" rel="noreferrer">
-										<Facebook className="fn__svg" />
-									</a></Link>
-								</li>
-								<li>
-									<Link href="#"><a target="_blank" rel="noreferrer">
-										<Twitter className="fn__svg" />
-									</a></Link>
-								</li>
-								<li>
-									<Link href="#"><a target="_blank" rel="noreferrer">
-										<Instagram className="fn__svg" />
-									</a></Link>
-								</li>
-								<li>
-									<Link href="#"><a target="_blank" rel="noreferrer">
-										<Vk className="fn__svg" />
-									</a></Link>
-								</li>
-								<li>
-									<Link href="#"><a target="_blank" rel="noreferrer">
-										<Linkedin className="fn__svg" />
-									</a></Link>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
 				{/* <!-- TOLL FREE MOBILE --> */}
 				<div className="m_toll_free_lang">
 					<div className="lang_switcher">
@@ -71,9 +37,9 @@ export default function MobileHeader() {
 				{/* <!-- LOGO & HAMBURGER --> */}
 				<div className="logo_hamb">
 					<div className="in">
-						<div className="menu_logo">
-							<Link href="/"><a><img src="img/logo-light.png" alt="Industry Template" /></a></Link>
-						</div>
+					<div className="flex-col flex">
+                            <h3>Designation Dump LLC</h3> <br /><h5> Waste Management Services</h5>
+                            </div>
 						<div onClick={MobileMenuTrueFalse} className={!isMobileMenu ? "hamburger hamburger--collapse-r" : "hamburger hamburger--collapse-r is-active"}>
 							<div className="hamburger-box">
 								<div className="hamburger-inner"></div>
