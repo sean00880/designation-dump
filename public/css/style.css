@@ -126,6 +126,7 @@ a:focus {
 	clear: both;
 	min-height: 100vh;
 	position: relative;
+	background: linear-gradient(281deg, #f8f8f8, #d8d8d8de);
 }
 .industify_fn_wrapper_all:after{
 	clear: both;
@@ -3079,7 +3080,7 @@ blockquote{
 	float: left;
 	clear: both;
 	position: relative;
-	background:#658c6570;
+	background:#475145d4;
 	z-index: 2;
 	padding: 83px 0px 49px 0px;
 }
@@ -3155,7 +3156,6 @@ blockquote{
 	top: 0px;
 	right: 0px;
 	bottom: 0px;
-	
 	background-size: cover !important;
 	background-position: center center !important;
 	background-repeat: no-repeat !important;
@@ -3287,7 +3287,7 @@ blockquote{
     top: 100%;
     left: 0px;
     margin-top: 3px;
-    background-color: #316397;
+    background-color: #d24e1a;
 }
 .industify_fn_widget_business_hours ul{
 	list-style-type: none;
@@ -3919,6 +3919,7 @@ blockquote{
 	border: 10px solid #eee;
 	padding: 105px 50px 95px 50px;
 	background: #2c3f32;;
+	box-shadow: 1px 3px 9px #888c89;
 }
 
 .fn_cs_principles_modern .item:hover{
@@ -3979,6 +3980,7 @@ blockquote{
 	bottom: 0px;
 	z-index: 10;
 	text-decoration: none;
+	box-shadow: 5px 5px 3px #4d5a4c;
 }
 .fn_cs_principles_modern .item:hover .icon{
 	color: #71aa63;
@@ -4091,7 +4093,7 @@ blockquote{
 	left: 0px;
 	bottom: 0px;
 	right: 0px;
-	background-color: #f5f3f3;
+	background-color: #a6afa7;
 	z-index: 1;
 }
 .fn_cs_about .border .span2:after{
@@ -4946,7 +4948,7 @@ blockquote{
 	padding: 0;
 	font-size: 18px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 2.4;
     letter-spacing: 0px;
     color: #999;
 }
@@ -5401,6 +5403,7 @@ blockquote{
 	background-position: center center;
 	background-repeat: no-repeat;
 	opacity: .2;
+	background-attachment: fixed;
 }
 .blog_section .fn_cs_main_title{
 	margin-bottom: 50px;
@@ -5432,6 +5435,7 @@ blockquote{
     background-repeat: no-repeat;
     background-position: center center;
 	background-color: #aaa;
+	box-shadow: 7px 12px 11px #151615b5;
     position: relative;
 	width: 100%;
 	float: left;
@@ -5467,17 +5471,17 @@ blockquote{
 	left: 0px;
 	bottom: 15px;
 	right: 0px;
-	background-color: #d24e1a;
+	background-color: #202020;
 	z-index: -1;
 }
 .fn_cs_triple_blog_modern .time span:before{
 	position: absolute;
-	content: '';
-	left: 0px;
-	bottom: 0px;
-	border-top: 15px solid #d24e1a;
-	border-right: 80px solid transparent;
-	z-index: -1;
+    content: '';
+    left: 0px;
+    bottom: 2px;
+    border-top: 13px solid #6a7e6f;
+    border-right: 80px solid transparent;
+    z-index: -1;
 }
 .fn_cs_triple_blog_modern .time h3{
 	margin: 0px;
@@ -7463,6 +7467,7 @@ blockquote{
 	height: 50px;
 	position: relative;
 	z-index: 1;
+	display: none;
 }
 .fn_cs_services_classic .video_holder .video_bg:after{
 	background-color: #16161b;
@@ -7509,9 +7514,6 @@ blockquote{
 .fn_cs_services_classic.video_enable .bg1{background-color: rgba(255, 255, 255, 0.1);}
 .fn_cs_services_classic.video_enable .bg2{background-color: #aaa;}
 .fn_cs_services_classic.video_enable .more_details a{color: #fff;}
-.fn_cs_services_classic.video_enable{
-	margin-top: -170px;
-}
 .fn_cs_services_classic .button_inner{
 	display: block;
 	width: 100px;
@@ -7734,6 +7736,7 @@ blockquote{
     text-align: center;
     border-radius: 2px;
 	font-family: 'Rubik';
+	box-shadow: 6px 5px 8px #1a321d;
 }
 .fn_cs_principles .right_part h3{
 	margin: 0;
@@ -9565,4 +9568,12 @@ p{
 		padding-right: 30px;
 		padding-left: 30px;
 	}
+}
+
+.listBorder{
+	background-color: black;
+	padding:30px;
+	display: flex;
+	border-radius: 10px;
+	box-shadow: 6px 6px 10px #374836;
 }

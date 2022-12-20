@@ -6,7 +6,7 @@ export default function Footer() {
         <>
             <footer className="industify_fn_footer">
                 <div className="top_footer">
-                    <div className="top_footer_img" style={{ "background": "url(img/footer/bg.jpg)" }}></div>
+                    <div className="top_footer_img" style={{ "background": "url(img/footer/bg.jpg)" , "backgroundAttachment":"fixed" }}></div>
                     {/* <!-- SUBSCRIBE --> */}
                     <div className="subscribe_f">
                         <div className="container">

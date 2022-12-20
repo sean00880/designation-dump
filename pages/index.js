@@ -9,6 +9,7 @@ import { Design, Drawing, Learning, TowerCrane } from '../public/svg/service/Ico
 
 const right = "/img/about/right2.jpg"
 const rightImage = "/img/service/right-image.jpg"
+const footerImage = "/img/footer/bg.jpg"
 const testimonial = "/img/testimonial/bg.jpg"
 const portfolio1 = "/img/portfolio/1.jpg"
 const portfolio2 = "/img/portfolio/2.jpg"
@@ -101,6 +102,7 @@ export default function Index() {
 										<p>We provide junk removal services for home and commercial clients, including but not limited to offices, retail establishments, offices, and building sites. We take pleasure in our customer service and enjoy a challenge, so we take on any challenging jobs, no matter how big or small, and we always make sure that your waste is disposed appropriately, whether that means being recycled, donated, or in some other way.</p>
 										
 									</div>
+									<div className="listBorder" style={{ "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover"  }}>
 						<div className="list">
 
 							<ul>
@@ -171,6 +173,7 @@ export default function Index() {
 								</li>
 							</ul>
 						</div>
+						</div>
 					</div>
 				</div>
 
@@ -188,7 +191,7 @@ export default function Index() {
 				<div className="fn_cs_button" style={{ "width": "auto"}}>
 					<div className="container max1500">
 						<div className="inner max500">
-							<Link href="/services"><a>Full Services List</a></Link>
+							<Link href="/services"><a>Full List of Services</a></Link>
 						</div>
 					</div>
 				</div>
@@ -314,7 +317,7 @@ export default function Index() {
 										<div className="title_holder">
 											<Link href="/process"><a></a></Link>
 											<h3>Pick a Service</h3>
-											<p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
+											<p>Browse through our list of services and identify the one you require assistance with.</p>
 											<span className="icon">
 												<Arrow_r className="fn__svg" />
 											</span>
@@ -421,8 +424,8 @@ export default function Index() {
 					<div className="container">
 						<div className="cta_holder">
 							<div className="title_holder">
-								<h3>We will Make Your Dream Come True</h3>
-								<p>We are focused on sustainable business that delivers the best possible project results.</p>
+								<h3>Let us assist you in keeping your environment clean, safe & healthy!</h3>
+								<p>We believe in giving back to the community. We strive to do so by donating salvagable goods, recycling and following best disposal practices to dispose the rest. Our sustainable junk removal solutions help reduce carbon emissions and protect our environement.</p>
 							</div>
 							<div className="link_holder">
 								<Link href="/contact"><a>Our Responsibility</a></Link>

@@ -11,7 +11,7 @@ SwiperCore.use([Navigation, Pagination, Autoplay]);
 
 // Images imported
 const slider1 = "/img/slider/1.jpg"
-const slider2 = "/img/slider/4.jpg"
+const slider2 = "/img/slider/2.png"
 const slider3 = "/img/slider/3.jpg"
 const slider4 = "/img/slider/4.jpg"
 const slider5 = "/img/slider/5.jpg"
