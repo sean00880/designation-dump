@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Link from 'next/link'
 import { Facebook, Instagram, Linkedin, Twitter, Vk } from '../public/svg/social/IconSocial';
-
+const footerImage = "/img/footer/bg.jpg"
 const background = "img/call.png"
 
 export default function DesktopHeader() {
@@ -11,10 +11,11 @@ export default function DesktopHeader() {
 
     return (
         <>
-            <div className="industify_fn_header" style={{"position":"fixed", "background": "radial-gradient(ellipse at top, #595a59, #092009b5), radial-gradient(ellipse at bottom, #d6e4c9, #5d615dd6)", "color":"white"}}>
-
+        
+									
+            <div className="industify_fn_header" style={{"position":"fixed", "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover",}}>
                 
-
+            <div className="backgroundWrapper" style={{  "background": "radial-gradient(ellipse at top, #595a59, #092009b5), radial-gradient(ellipse at bottom, #d6e4c9, #5d615dd6)", "color":"white",  "display":"flex"}}>
                 {/* <!-- Header: Bottom Panel --> */}
                 <div className="header_inner">
                     <div className="menu_logo">
@@ -35,12 +36,28 @@ export default function DesktopHeader() {
                             <li className="menu-item-has-children">
                                 <Link href="/services"><a>Our Services</a></Link>
                                 <ul className="sub-menu">
-                                    <li><Link href="/services/junk-removal"><a className='text-white'>Junk Removal</a></Link></li>
-                                    <li><Link href="/services/property-cleanout"><a className='text-white'>Property Cleanout</a></Link></li>
-                                    <li><Link href="/services/commercial-cleanout"><a className='text-white'>Commercial Cleanout</a></Link></li>
-                                    <li><Link href="/services/storage-cleanout"><a className='text-white'>Storage Cleanout</a></Link></li>
-                                    <li><Link href="/services/appliance-removal"><a className='text-white'>Appliance Removal</a></Link></li>
+                                    <li className="menu-item-has-children"><Link href="/services/junk-removal"><a>Removal</a></Link>
+                                    
+                                    <ul className="sub-menu">
+                                    <li><Link href="/services/property-cleanout"><a>Appliance Removal</a></Link></li>
+                                    
                                     <li><Link href="/services/construction-removal"><a className='text-white'>Construction Debris Removal</a></Link></li>
+                                    <li><Link href="/services/junk-removal"><a className='text-white'>Junk Removal</a></Link></li>
+                                        </ul>
+                                        
+                                    </li>
+                                    
+                                    <li className="menu-item-has-children"><Link href="/services/junk-removal"><a>Cleanouts</a></Link>
+                                    
+                                    <ul className="sub-menu">
+                                    <li><Link href="/services/commercial-cleanout"><a>Commercial Cleanout</a></Link></li>
+                                    <li><Link href="/services/property-cleanout"><a className='text-white'>Property Cleanout</a></Link></li>
+                                    <li><Link href="/services/storage-cleanout"><a className='text-white'>Storage Cleanout</a></Link></li>
+                                        </ul>
+                                        
+                                    </li>
+                                    
+                                    
                                 </ul>
                             </li>
                             <li >
@@ -70,6 +87,7 @@ export default function DesktopHeader() {
                 </div>
                 {/* <!-- /Header: Bottom Panel --> */}
 
+            </div>
             </div>
             <div className="my-class"></div>
         </>

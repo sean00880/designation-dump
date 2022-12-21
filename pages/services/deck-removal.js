@@ -3,28 +3,27 @@ import Layout from '../../layout/layout'
 import Sidebar from '../../layout/sidebar'
 import Title from '../../layout/title'
 import { Check } from '../../public/svg/icon'
-import Link from "next/link"
+import Link from 'next/link'
 import List from '../../layout/list'
 
 
-
-export default function ServiceSingle3() {
+export default function ServiceSingle2() {
 	return (
 		<>
-			<Title title='Service Single 5' />
+		<Title title='Service Single 2' />
 			<Layout>
 				{/* Page Title */}
-				<div className="industify_fn_pagetitle">
+				<div className="industify_fn_pagetitle" >
 					<div className="container">
 						<div className="title_holder">
-							<h3>Storage Cleanout</h3>
+							<h3>Deck Removal</h3>
 							<div className="industify_fn_breadcrumbs">
 								<ul>
 									<li><Link href="/"><a title="Home">Home</a></Link></li>
 									<li className="separator"><span></span></li>
 									<li><Link href="/services"><a title="Services">Services</a></Link></li>
 									<li className="separator"><span></span></li>
-									<li><span className="bread-current">Storage Cleanout</span></li>
+									<li><span className="bread-current">Deck Removal</span></li>
 								</ul>
 							</div>
 						</div>
@@ -46,13 +45,12 @@ export default function ServiceSingle3() {
 								<div className="industify_fn_service_single">
 
 									<div className="img_holder">
-										<img src="img/service/single/5.jpg" alt="" />
+										<img src="img/service/single/2.jpg" alt="" />
 									</div>
 
 									<div className="desc_holder">
-										<p>Today’s energy and commodities industries power and feed the world economy. The efficient and effective operation of these projects is vital to sustained energy growth and environmental support. By utilizing Industify’s global energy and commodity testing, inspection, and certification services, businesses can design, develop, manufacture and run more successful and valuable products and processes.</p>
-										<p>Industify’s range of energy expertise works to support clients operating in businesses as diverse as oil and gas, petroleum refining and distribution, petrochemicals, power generation, nuclear power, solar, biofuels, tidal, wave and wind power. This affords us a high-level, cross-sectional view of energy industry topics and trends that affect current and future business development, providing insight and opportunities that may otherwise go undetected. Our global network also provides logistical, testing, inspection, certification and consulting expertise to assist clients in running their operations more efficiently and safely while protecting expensive assets, products and infrastructure.</p>
-										<p>Commodities are the raw materials which the modern world depends upon for manufactured materials, products and food. We help producers, distributors and processors of these raw materials benefit from optimising their quality control, loss control and financial risk reduction. Products and processes are all enhanced by partnering with Industify, leading to a more successful product and path for all involved.</p>
+										<p>Industify’s tailored solutions enable retailers, brands and manufacturers of textile products, apparel and home textiles to ensure the safety, quality and performance of their products with precision, resulting in increased speed to market.</p>
+										<p>Industify performs textile testing on items ranging from fabric samples to finished products, including activewear, apparel for children and adults (pajamas, sweaters, jeans, outerwear), fashion accessories (scarves, belts) and soft home furnishings (bedding, curtains, upholstery). We help our customers go beyond regulatory requirements to consistently meet consumer demand for high quality, minimize reputational risk, reduce environmental impacts and protect the interests of retailers, brands, textile manufacturers and consumer safety.</p>
 									</div>
 
 									{/* Check List Shortcode */}
@@ -63,61 +61,43 @@ export default function ServiceSingle3() {
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Agriculture</p>
+														<p>Accessory Testing</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Biofuels</p>
+														<p>Activewear Testing</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Coal &amp; Solid Fuels</p>
+														<p>AP/APEOs Quick Test</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Minerals</p>
+														<p>Apparel Testing</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Nuclear</p>
+														<p>Auditing and Systems Certification</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Oil &amp; Gas</p>
+														<p>Chemical Smart Screening</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Power Equipment</p>
-													</div>
-												</li>
-												<li>
-													<div className="item">
-														<Check className="fn__svg" />
-														<p>Power Generation</p>
-													</div>
-												</li>
-												<li>
-													<div className="item">
-														<Check className="fn__svg" />
-														<p>Solar</p>
-													</div>
-												</li>
-												<li>
-													<div className="item">
-														<Check className="fn__svg" />
-														<p>Wind, Wave &amp; Tidal</p>
+														<p>Children&apos;s Textile and Apparel Testing</p>
 													</div>
 												</li>
 											</ul>
@@ -134,7 +114,7 @@ export default function ServiceSingle3() {
 													<p>We build your dream house. Contact us for detailed information.</p>
 												</div>
 												<div className="link_holder">
-													<a href="contact.html">Our Responsibility</a>
+													<Link href="/contact"><a>Our Responsibility</a></Link>
 												</div>
 											</div>
 										</div>
@@ -143,7 +123,7 @@ export default function ServiceSingle3() {
 
 									{/* Get Random Services */}
 									{/* You can change data-index value to exclude 1st service single from the service list. You can also change data-count value to set including services count. */}
-									<div data-html="includes/random-service.html" data-index="5" data-count="2"></div>
+									<div data-html="includes/random-service.html" data-index="2" data-count="2"></div>
 									{/* /Get Random Services */}
 
 								</div>
@@ -163,7 +143,7 @@ export default function ServiceSingle3() {
 								{/* /Service List */}
 
 								{/* Get Sidebar */}
-								<Sidebar />
+								<Sidebar/>
 								{/* /Get Sidebar */}
 
 

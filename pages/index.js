@@ -99,13 +99,17 @@ export default function Index() {
 <div className="title_holder" style={{ "color": "#455245"}} >
 										<h1  style={{ "color": "black", "textAlign": "center", "borderBottom":"3px solid black"}}>Junk Removal in Canal Winchester, OH</h1>
 										<p>Do you feel totally overwhelmed by your junk situation? Do you have one or two large items that might be hazardous or at the very least challenging for you to remove on your own? Designation Dump is available to help! To begin with anything you could have in mind, get in touch with us right away. You can use our expertise, equipment, friendliness, and professionalism to solve any problems you might be having. Everything can be handled by us in the safest, most effective way possible.</p>
+										<p>For local communities, junk disposal is a crucial component of sustainable waste management. It allows us to reuse or properly dispose of materials that might otherwise be thrown out as trash and helps keep our environment clean. Additionally, it lessens the quantity of trash that is disposed of in landfills and incinerators, making the world a cleaner and safer environment.</p>
 										<p>We provide junk removal services for home and commercial clients, including but not limited to offices, retail establishments, offices, and building sites. We take pleasure in our customer service and enjoy a challenge, so we take on any challenging jobs, no matter how big or small, and we always make sure that your waste is disposed appropriately, whether that means being recycled, donated, or in some other way.</p>
-										
 									</div>
-									<div className="listBorder" style={{ "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover"  }}>
+									<div className="listWrapper" style={{ "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover"  }}>
+									<div className="listBorder" style={{ "background": "#374736c4"  }}>
 						<div className="list">
 
 							<ul>
+						
+							<h2 className="headings">Featured Services</h2>
+						
 								<li>
 									<div className="item">
 										<Link href="/services/junk-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
@@ -113,7 +117,7 @@ export default function Index() {
 										<Learning className="fn__svg" />
 										</span>
 										<h3>Junk <br /> Removal</h3>
-										<p>During this phase, we will work to provide a detailed analysis of the project and we will establish project expectations along with our clients.</p>
+										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
 										<span className="more_details">
 											<Link href="#"><a>
 												More Details
@@ -129,7 +133,7 @@ export default function Index() {
 										<Drawing className="fn__svg" />
 										</span>
 										<h3>Property <br />Cleanout</h3>
-										<p>The client retains an architect or engineer to design the project and to prepare the necessary drawings and specifications for new project.</p>
+										<p>Our larger trucks and professionalism will help you, whether you're preparing a space for a new tenant or need to make space in your garage. Your apartment, house, basement, attic or garage cleanout can be easily handled with Designation Dump.</p>
 										<span className="more_details ixon">
 											<Link href="#"><a>
 												More Details
@@ -174,6 +178,7 @@ export default function Index() {
 							</ul>
 						</div>
 						</div>
+						</div>
 					</div>
 				</div>
 
@@ -181,7 +186,7 @@ export default function Index() {
 				<div className="fn_cs_description" data-margin-bottom="33" style={{ "float": "right", "width": "auto",}}>
 					<div className="container max1500">
 						<div className="desc_holder max500">
-							<p>We are construction partners who are passionate about what we do and our partners success. We pride ourselves on being solution providers.</p>
+							<p>We take pleasure in giving you an outstanding junk removal experience at Designation Dump!</p>
 						</div>
 					</div>
 				</div>
@@ -220,25 +225,6 @@ export default function Index() {
 								</div>
 								<div className="right_part">
 									<div className="r_inner">
-										<div className="top_section">
-											<div className="badge_holder">
-												<div className="badge_left">
-													<div className="b_title">
-														<h3>Ohio&apos;s Leading Waste Management<br />Services</h3>
-													</div>
-													<div className="b_desc"><span className="year">3</span><span className="text">Years of Experience & Counting</span></div>
-												</div>
-												<div className="badge_right" style={{ "backgroundImage": `url(${rightImage})` }}></div>
-											</div>
-											<div className="rating_holder">
-												<div className="r_header"></div>
-												<div className="r_footer"></div>
-												<Link href="#"><a></a></Link>
-												<Stars className="fn__svg" />
-												<h3 className="rating_number">5/5</h3>
-												<h3 className="rating_text">Customer Rating</h3>
-											</div>
-										</div>
 										<div className="bottom_section">
 											<div className="list">
 												<ul>
@@ -247,7 +233,7 @@ export default function Index() {
 															<span className="icon">
 																<Checked className="fn__svg" />
 															</span>
-															<p>Reduce environmental footprint.</p>
+															<p>Reduce Carbon Footprint</p>
 														</div>
 													</li>
 													<li>
@@ -255,7 +241,7 @@ export default function Index() {
 															<span className="icon">
 																<Checked className="fn__svg" />
 															</span>
-															<p>Professional Work.</p>
+															<p>Professional work </p>
 														</div>
 													</li>
 													<li>
@@ -263,7 +249,7 @@ export default function Index() {
 															<span className="icon">
 																<Checked className="fn__svg" />
 															</span>
-															<p>We take on big and small jobs of all complexities.</p>
+															<p>We take on jobs of varying complexities</p>
 														</div>
 													</li>
 													<li>
@@ -272,14 +258,6 @@ export default function Index() {
 																<Checked className="fn__svg" />
 															</span>
 															<p>Available 24/7.</p>
-														</div>
-													</li>
-													<li>
-														<div className="item">
-															<span className="icon">
-																<Checked className="fn__svg" />
-															</span>
-															<p>Company has over 2000 workers.</p>
 														</div>
 													</li>
 												</ul>
