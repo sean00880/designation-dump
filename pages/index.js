@@ -26,7 +26,7 @@ export default function Index() {
 		<>
 			<Title title='Home Alpha' />
 			<Layout className={"nobglight"}>
-				<Title title='Home Delta' />
+				<Title title='Junk Removal Near Columbus Ohio' />
 
 				<Slider />
 

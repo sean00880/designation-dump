@@ -75,6 +75,7 @@ export default function Services() {
 										</span>
 									</div>
 								</li>
+								
 								<li>
 									<div className="item">
 										<Link href="/services/construction-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
@@ -86,6 +87,54 @@ export default function Services() {
 										<p>In this section, we let clients select a design-build arrangement when they want to work with one contract entity, instead of several contractors and consultants.</p>
 										<span className="more_details">
 											<Link href="#"><a>
+												More Details
+												<Arrow_r className="fn__svg" />
+											</a></Link>
+										</span>
+									</div>
+								</li>
+								<li>
+									<div className="item">
+										<Link href="/services/appliance-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
+										<span className="icon">
+										<Learning className="fn__svg" />
+										</span>
+										<h3>Appliance <br /> Removal</h3>
+										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
+										<span className="more_details">
+											<Link href="/services/appliance-removal"><a>
+												More Details
+												<Arrow_r className="fn__svg" />
+											</a></Link>
+										</span>
+									</div>
+								</li>
+								<li>
+									<div className="item">
+										<Link href="/services/shed-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
+										<span className="icon">
+										<Learning className="fn__svg" />
+										</span>
+										<h3>Shed <br /> Removal</h3>
+										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
+										<span className="more_details">
+											<Link href="/services/shed-removal"><a>
+												More Details
+												<Arrow_r className="fn__svg" />
+											</a></Link>
+										</span>
+									</div>
+								</li>
+								<li>
+									<div className="item">
+										<Link href="/services/shed-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
+										<span className="icon">
+										<Learning className="fn__svg" />
+										</span>
+										<h3>Deck <br /> Removal</h3>
+										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
+										<span className="more_details">
+											<Link href="/services/deck-removal"><a>
 												More Details
 												<Arrow_r className="fn__svg" />
 											</a></Link>
@@ -119,6 +168,22 @@ export default function Services() {
 										<Drawing className="fn__svg" />
 										</span>
 										<h3>Property <br />Cleanout</h3>
+										<p>Our larger trucks and professionalism will help you, whether you're preparing a space for a new tenant or need to make space in your garage. Your apartment, house, basement, attic or garage cleanout can be easily handled with Designation Dump.</p>
+										<span className="more_details ixon">
+											<Link href="#"><a>
+												More Details
+												<Arrow_r className="fn__svg" />
+											</a></Link>
+										</span>
+									</div>
+								</li>
+								<li>
+									<div className="item">
+										<Link href="/services/storage-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
+										<span className="icon">
+										<Drawing className="fn__svg" />
+										</span>
+										<h3>Storage <br />Cleanout</h3>
 										<p>Our larger trucks and professionalism will help you, whether you're preparing a space for a new tenant or need to make space in your garage. Your apartment, house, basement, attic or garage cleanout can be easily handled with Designation Dump.</p>
 										<span className="more_details ixon">
 											<Link href="#"><a>
