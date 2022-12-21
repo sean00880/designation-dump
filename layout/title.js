@@ -4,7 +4,7 @@ import Head from 'next/head'
 export default function Title({title}) {
     return (
         <Head>
-            <title>Industify | {title}</title>
+            <title>Junk Removal near Columbus, Ohio{title}</title>
         </Head>
     )
 }

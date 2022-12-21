@@ -186,7 +186,7 @@ export default function Index() {
 				<div className="fn_cs_description" data-margin-bottom="33" style={{ "float": "right", "width": "auto",}}>
 					<div className="container max1500">
 						<div className="desc_holder max500">
-							<p>We take pleasure in giving you an outstanding junk removal experience at Designation Dump!</p>
+							<p>We take pleasure in giving you an outstanding junk removal experience at Designation Dump. Choose from our wide range of removal and cleanout servies.</p>
 						</div>
 					</div>
 				</div>
