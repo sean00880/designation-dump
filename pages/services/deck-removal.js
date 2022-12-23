@@ -49,49 +49,59 @@ export default function ServiceSingle2() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Industify’s tailored solutions enable retailers, brands and manufacturers of textile products, apparel and home textiles to ensure the safety, quality and performance of their products with precision, resulting in increased speed to market.</p>
-										<p>Industify performs textile testing on items ranging from fabric samples to finished products, including activewear, apparel for children and adults (pajamas, sweaters, jeans, outerwear), fashion accessories (scarves, belts) and soft home furnishings (bedding, curtains, upholstery). We help our customers go beyond regulatory requirements to consistently meet consumer demand for high quality, minimize reputational risk, reduce environmental impacts and protect the interests of retailers, brands, textile manufacturers and consumer safety.</p>
-									</div>
+										<h1>Deck Removal near Columbus, OH</h1>
+										<p>If your deck's connectors seem to be falling apart or the planks are getting flimsy or unstable, your deck may be troublesome. It could be best to tear down your deck for everyone's safety to prevent unprecedented injuries.</p>
+										<p>There are alternative methods for getting rid of your old deck, but nothing makes the process easier and more affordable than hiring our professionals at Designation Dump . Taking down your old deck can be challenging . Consider the time and preparation that will be required. All the labor will need to be done by you, and when it's time to haul away what you tore down, you may require professional assistance again. By choosing us, you will save yourself time, energy, money and stress.</p>
+			
+										<p>We provide complete deck, gazebo, and patio demolition and removal for both, residential as well as commercial properties. You direct us and we carry out the task!</p>
+										<h1>How Much Will Deck Removal Cost?</h1>
+										<p>Prices are determined on how much rubbish we haul away. There are no additional expenses because all rates include labor, tax, and disposal fees. We have reasonable charges, and we'll always give you a quote up front before beginning any job. Send us a picture of your stuff via SMS, and we'll reply with an estimate. A free, no-obligation estimate at your home or place of business is the best way for us to provide you with the lowest, most accurate quote. In Cincinnati, Dayton, and Southwest Ohio, we provide the deck removal service at the most competitive price.</p>
+									
+										<h1>The Deck Removal Process</h1>
+										<p>Designation Dump will start removing the deck after all safety precautions have been fulfilled, utilizing specialist cutting tools and equipment. Depending on how big the deck is, we might use saws or sledgehammers to cut it into smaller pieces that can be moved and disposed of more readily. Every piece of the deck will have any nails or screws used for assembly meticulously removed and disposed.</p>
+										<h1>Post-Work Cleanup</h1>
+										<p>We will clear away any dust or debris that has accumulated during the demolition process before leaving your site clean and ready for future development prospects to guarantee that your property is safe and orderly once we have finished our work.</p>
+										</div>
 
 									{/* Check List Shortcode */}
 									<div className="fn_cs_check_list">
-										<h3>Service Features</h3>
+										<h3>What We Remove:</h3>
 										<div className="list">
 											<ul>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Accessory Testing</p>
+														<p>Wood Deck</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Activewear Testing</p>
+														<p>Metal Deck</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>AP/APEOs Quick Test</p>
+														<p>Gazebo</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Apparel Testing</p>
+														<p>Fence</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Auditing and Systems Certification</p>
+														<p>Shed Debris</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Chemical Smart Screening</p>
+														<p>Outdoor Structure</p>
 													</div>
 												</li>
 												<li>

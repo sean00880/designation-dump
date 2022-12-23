@@ -50,13 +50,19 @@ export default function ServiceSingle3() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Thanks to shale oil and gas, the world’s economy is no longer running out of energy-rich hydrocarbons. Rather, we’re now awash in a global bath of cheap oil and gas. What happened to cause this dramatic change in fortune? Simply put, North American Shale Oil and Gas Happened, using the combination of Hydraulic Fracturing and Horizontal Drilling technologies. </p>
-										<p>The combined technologies, hydraulic fracturing and radial horizontal well drilling, provided unprecedented accessibility to the huge hydrocarbon-rich shale deposits of North America. Industify upstream oil &amp; gas technical services helped clients to evaluate potential production sites and shale crude reservoirs, and to optimize production while supporting asset integrity management programs. </p>
-										<p>Starting in 2011, the massive growth of shale oil and gas production began in key regions such as West Texas and North Dakota, transforming the USA crude oil and natural gas markets in a profound and permanent way. Less expensive natural gas prices thanks to shale gas production has sparked a rapid restructuring of the power generation industry as power-plants reduce coal and turn to natural gas. Inexpensive feedstocks have fueled a massive expansion of the petrochemical industry and the construction of new Liquefied Natural Gas (LNG) export plants.</p>
-										<p>The impact of shale oil on the domestic and then international crude oil market was no less dramatic during this time. The tsunami of new shale crude oil flooded the USA with inexpensive petroleum feedstocks and condensates. These new crudes found welcoming markets, benefiting Inland refiners at first, but soon followed by East Coast, Gulf Coast, and West Coast refineries. Limited pipeline networks in the new shale areas meant that “Crude-by-Truck” and especially “Crude-by-Rail” became viable options to get these new crude oils to market. “Crude-by-Water” has witnessed tremendous growth as barges, Jones Act Tankers, and limited international export tankers activity has ballooned in volume. </p>
-										<p>Pipelines built after World War II to send imported crude oil north from the Gulf Coast to landlocked inland refiners were reversed for the first time in their long existence, sending domestic shale crude south to Texas and Louisiana refiners and beyond. New refineries were built for the first time in decades and old ones reopened, purpose-built to handle the new shale crudes.</p>
-										<p>Imported crude oil from West Africa, the Middle East and Latin America were essentially replaced by the usage of domestic USA shale oil. Quiet places like the Bakken and Eagle Ford became household names and experienced rapid economic expansion and population growth, not unlike the California Gold Rush of 1849.</p>
-									</div>
+									<h1>Appliance Removal near Columbus, OH</h1>
+										<p>If your deck's connectors seem to be falling apart or the planks are getting flimsy or unstable, your deck may be troublesome. It could be best to tear down your deck for everyone's safety to prevent unprecedented injuries.</p>
+										<p>The fact remains that removing appliances is almost never a one-person job. The majority of large appliances are far too heavy for just one or two individuals. Large appliances are not only notoriously difficult to pick up and transport, but they are also challenging to get rid of.</p>
+			
+										<p>We provide complete deck, gazebo, and patio demolition and removal for both, residential as well as commercial properties. You direct us and we carry out the task!</p>
+										<h1>How Much Will Deck Removal Cost?</h1>
+										<p>Prices are determined on how much rubbish we haul away. There are no additional expenses because all rates include labor, tax, and disposal fees. We have reasonable charges, and we'll always give you a quote up front before beginning any job. Send us a picture of your stuff via SMS, and we'll reply with an estimate. A free, no-obligation estimate at your home or place of business is the best way for us to provide you with the lowest, most accurate quote. In Cincinnati, Dayton, and Southwest Ohio, we provide the deck removal service at the most competitive price.</p>
+									
+										<h1>The Deck Removal Process</h1>
+										<p>Designation Dump will start removing the deck after all safety precautions have been fulfilled, utilizing specialist cutting tools and equipment. Depending on how big the deck is, we might use saws or sledgehammers to cut it into smaller pieces that can be moved and disposed of more readily. Every piece of the deck will have any nails or screws used for assembly meticulously removed and disposed.</p>
+										<h1>Post-Work Cleanup</h1>
+										<p>We will clear away any dust or debris that has accumulated during the demolition process before leaving your site clean and ready for future development prospects to guarantee that your property is safe and orderly once we have finished our work.</p>
+										</div>
 
 									{/* Check List Shortcode  */}
 									<div className="fn_cs_check_list">

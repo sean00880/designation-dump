@@ -24,7 +24,7 @@ const blog3 = "/img/blog/3.jpg"
 export default function Index() {
 	return (
 		<>
-			<Title title='Home Alpha' />
+			<Title title='Junk Removal Near Columbus Ohio' />
 			<Layout className={"nobglight"}>
 				<Title title='Junk Removal Near Columbus Ohio' />
 

@@ -11,7 +11,7 @@ import List from '../../layout/list'
 export default function ServiceSingle3() {
 	return (
 		<>
-		<Title title='Service Single 3' />
+		<Title title='Property Cleanout' />
 			<Layout>
 				{/* Page Title */}
 				<div className="industify_fn_pagetitle">
@@ -50,8 +50,9 @@ export default function ServiceSingle3() {
 									</div>
 
 									<div className="desc_holder">
-										<p>From candles to cutlery and from picture frames to pet toys, Industify helps to establish the compliance of your household products to quality and safety standards and regulations.</p>
-										<p>Industify global network offers innovative assurance, testing, inspection and certification services for your housewares home décor items through testing the physical, mechanical and chemical properties of each product, providing total quality assurance.</p>
+										
+										<p>Designation Dump's property cleanout services will assist you make the property ready for leasing when renters leave trash and furniture behind. Within a few hours, we can shorten the turnaround time and have your rental property thoroughly cleaned out.</p>
+										<p>We can handle everything, from one-off projects for private homes to regular schedules for REO property flippers, thanks to our expertise to provide full-service removal, hauling, and disposal. As soon as we get there, we go to work clearing out all of your extra items, whether they are from the garage, the basement, or the entire house.</p>
 									</div>
 
 									{/* Check List Shortcode */}

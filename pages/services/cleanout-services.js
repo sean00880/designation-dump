@@ -1,19 +1,19 @@
 import Link from 'next/link'
 import React from 'react'
-import Layout from '../layout/layout'
-import Sidebar from '../layout/sidebar'
-import Title from '../layout/title'
+import Layout from '../../layout/layout'
+import Sidebar from '../../layout/sidebar'
+import Title from '../../layout/title'
 const footerImage = "/img/footer/bg.jpg"
-import { Arrow_r, Certificate, Checked, Quotes, Stars } from '../public/svg/icon'
-import { Design, Drawing, Learning, TowerCrane } from '../public/svg/service/IconService'
-import List from '../layout/list'
+import { Arrow_r, Certificate, Checked, Quotes, Stars } from '../../public/svg/icon'
+import { Design, Drawing, Learning, TowerCrane } from '../../public/svg/service/IconService'
+import List from '../../layout/list'
 
 
 
 export default function Services() {
 	return (
 		<>
-			<Title title='Waste Management Services Columbus, OH' />
+			<Title title='Cleanout Services' />
 			<Layout>
 
 				{/* Page Title */}
@@ -22,8 +22,7 @@ export default function Services() {
 					
 					<div className="container">
 						<div className="title_holder">
-							
-							<h3>Our Services</h3>
+							<h3>Cleanout Services</h3>
 							<div className="industify_fn_breadcrumbs">
 								<ul>
 									<li><Link href="/"><a title="Home">Home</a></Link></li>
@@ -59,97 +58,9 @@ export default function Services() {
 									<div className="listBorder" style={{ "background": "#374736c4"  }}>
 						<div className="list">
 
+							
 							<ul>
-							<Link href='/services/waste-removal-services'>
-							<h2 className="headings">Removal Services</h2>
-							</Link>
-							<li>
-									<div className="item">
-										<Link href="/services/junk-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-										<span className="icon">
-										<Learning className="fn__svg" />
-										</span>
-										<h3>Junk <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
-										<span className="more_details">
-											<Link href="#"><a>
-												More Details
-												<Arrow_r className="fn__svg" />
-											</a></Link>
-										</span>
-									</div>
-								</li>
-								
-								<li>
-									<div className="item">
-										<Link href="/services/construction-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-										<span className="icon">
-										
-										<TowerCrane className="fn__svg" />
-										</span>
-										<h3>Construction <br /> Debris Removal</h3>
-										<p>In this section, we let clients select a design-build arrangement when they want to work with one contract entity, instead of several contractors and consultants.</p>
-										<span className="more_details">
-											<Link href="#"><a>
-												More Details
-												<Arrow_r className="fn__svg" />
-											</a></Link>
-										</span>
-									</div>
-								</li>
-								<li>
-									<div className="item">
-										<Link href="/services/appliance-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-										<span className="icon">
-										<Learning className="fn__svg" />
-										</span>
-										<h3>Appliance <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
-										<span className="more_details">
-											<Link href="/services/appliance-removal"><a>
-												More Details
-												<Arrow_r className="fn__svg" />
-											</a></Link>
-										</span>
-									</div>
-								</li>
-								<li>
-									<div className="item">
-										<Link href="/services/shed-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-										<span className="icon">
-										<Learning className="fn__svg" />
-										</span>
-										<h3>Shed <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
-										<span className="more_details">
-											<Link href="/services/shed-removal"><a>
-												More Details
-												<Arrow_r className="fn__svg" />
-											</a></Link>
-										</span>
-									</div>
-								</li>
-								<li>
-									<div className="item">
-										<Link href="/services/shed-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-										<span className="icon">
-										<Learning className="fn__svg" />
-										</span>
-										<h3>Deck <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
-										<span className="more_details">
-											<Link href="/services/deck-removal"><a>
-												More Details
-												<Arrow_r className="fn__svg" />
-											</a></Link>
-										</span>
-									</div>
-								</li>
-							</ul>
-							<ul>
-							<Link href='/services/cleanout-services'>
 							<h2 className="headings">Cleanout Services</h2>
-							</Link>
 							<li>
 									<div className="item">
 										<Link href="/services/commercial-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>

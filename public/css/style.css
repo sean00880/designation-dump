@@ -1110,7 +1110,6 @@ a:focus {
     width: -webkit-calc(100% - 300px);
 	float: left;
 	padding-right: 50px;
-	padding-top: 120px;
 	padding-bottom: 147px;
 	
 }
@@ -1332,7 +1331,7 @@ a:focus {
 	position: relative;
 	margin-bottom: 50px;
 	overflow: hidden;
-	background-color: #d24e1a;
+	background-color: #171b16;
 	border-radius: 5px;
 }
 .service_list_as_function .title_holder{
@@ -1480,7 +1479,7 @@ a:focus {
 .industify_fn_widget_estimate .helper2{
 	z-index: 15;
 	position: absolute;
-	border-right: 220px solid #d24e1a;
+	border-right: 220px solid #3c4c3b;
 	border-top: 55px solid transparent;
 	right: 0px;
 	bottom: 0px;
@@ -1558,7 +1557,7 @@ a:focus {
 	position: relative;
 	z-index: 5;
 	padding: 43px 40px 50px 40px;
-	background-color: #d24e1a;
+	background-color: #3c4c3b;
 }
 .industify_fn_widget_estimate .bfwe_inner p{
 	padding: 0px;
@@ -1734,7 +1733,7 @@ a:focus {
 	min-width: 160px;
 	overflow: hidden;
 	letter-spacing: .5px;
-	background-color: #d24e1a;
+	background-color: #3a4233;
 	font-family: 'Montserrat';
 	border-radius: 5px;
 }
@@ -1891,7 +1890,7 @@ a:focus {
 	font-size: 12px;
 	transition: all .3s ease;
 	font-weight: 600;
-	background-color: #d24e1a;
+	background-color: #3a4233;
 	font-family: 'Montserrat';
 	
 	border-radius: 2px;
@@ -1977,7 +1976,7 @@ a:focus {
 	right: 30px;
 	height: 10px;
     bottom: 0px;
-    background-color: #d24e1a;
+    background-color: #3a4233;
     content: '';
     position: absolute;
     z-index: -1;
@@ -2005,7 +2004,7 @@ a:focus {
 }
 .industify_fn_portfolio_list .item_in a:after{
 	content: '';
-	background-color: #d24e1a;
+	background-color: #3a4233;
 	left: 59px;
 	top: 40px;
 	width: 2px;
@@ -2016,7 +2015,7 @@ a:focus {
 }
 .industify_fn_portfolio_list .item_in a:before{
 	content: '';
-	background-color: #d24e1a;
+	background-color: #3a4233;
 	left: 50px;
 	top: 49px;
 	width: 0px;
@@ -2619,6 +2618,11 @@ a:focus {
 }
 .industify_fn_service_single .desc_holder{
 	margin-bottom: 56px;
+}
+.industify_fn_service_single .desc_holder h1{
+	color: #5c675c;
+	font-style:italic;
+	font-size: 23px;
 }
 /*------------------------------------------------------------------*/
 /*	19.1 Random Services
@@ -8143,7 +8147,7 @@ blockquote{
     background-color: #16161B;
 }
 .fn_cs_button a:hover{
-	background-color: #ad3110;
+	background-color: #7b8c79;
 	color: #fff;
 }
 .fn_cs_button.full a{
@@ -8152,7 +8156,7 @@ blockquote{
 	background-color: #45a2df;
 }
 .fn_cs_button.full a:hover{
-	background-color: #ad3110;
+	background-color: #7b8c79;
 }
 /*------------------------------------------------------------------*/
 /*	Shortcode #24 Sixfold Gallery
@@ -9646,6 +9650,7 @@ p{
 	padding:30px;
 	border-radius: 72px;
 	box-shadow: 7px 7px 7px #586057;
+	cursor: pointer;
 }
 
 @media(max-width: 1555px){

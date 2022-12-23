@@ -17,6 +17,8 @@ export default function List() {
 											<li><Link href="/services/commercial-cleanout"><a>Commercial Cleanout</a></Link></li>
 											<li><Link href="/services/storage-cleanout"><a>Storage Cleanout</a></Link></li>
 											<li><Link href="/services/appliance-removal"><a>Appliance Removal</a></Link></li>
+                                            <li><Link href="/services/shed-removal"><a>Shed Removal</a></Link></li>
+                                            <li><Link href="/services/deck-removal"><a>Deck Removal</a></Link></li>
 											<li><Link href="/services/construction-removal"><a>Construction Debris Removal</a></Link></li>
 										</ul>
 									</div>

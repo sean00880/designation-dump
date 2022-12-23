@@ -30,24 +30,24 @@ export default function DesktopHeader() {
                             <li>
                                 <Link href="/"><a>Home</a></Link>
                             </li>
-                            <li>
-                                <Link href="/portfolio"><a>Projects</a></Link>
-                            </li>
                             <li className="menu-item-has-children">
                                 <Link href="/services"><a>Our Services</a></Link>
                                 <ul className="sub-menu">
-                                    <li className="menu-item-has-children"><Link href="/services/junk-removal"><a>Removal</a></Link>
+                                    <li className="menu-item-has-children"><Link href="/services/waste-removal-services"><a>Removal</a></Link>
                                     
                                     <ul className="sub-menu">
+                                    <li><Link href="/services/junk-removal"><a className='text-white'>Junk Removal</a></Link></li>
                                     <li><Link href="/services/property-cleanout"><a>Appliance Removal</a></Link></li>
                                     
                                     <li><Link href="/services/construction-removal"><a className='text-white'>Construction Debris Removal</a></Link></li>
-                                    <li><Link href="/services/junk-removal"><a className='text-white'>Junk Removal</a></Link></li>
+                                    <li><Link href="/services/deck-removal"><a className='text-white'>Deck Removal</a></Link></li>
+                                    
+                                    <li><Link href="/services/shed-removal"><a className='text-white'>Shed Removal</a></Link></li>
                                         </ul>
                                         
                                     </li>
                                     
-                                    <li className="menu-item-has-children"><Link href="/services/junk-removal"><a>Cleanouts</a></Link>
+                                    <li className="menu-item-has-children"><Link href="/services/cleanout-services"><a>Cleanouts</a></Link>
                                     
                                     <ul className="sub-menu">
                                     <li><Link href="/services/commercial-cleanout"><a>Commercial Cleanout</a></Link></li>

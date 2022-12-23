@@ -50,9 +50,17 @@ export default function ServiceSingle2() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Industify’s tailored solutions enable retailers, brands and manufacturers of textile products, apparel and home textiles to ensure the safety, quality and performance of their products with precision, resulting in increased speed to market.</p>
-										<p>Industify performs textile testing on items ranging from fabric samples to finished products, including activewear, apparel for children and adults (pajamas, sweaters, jeans, outerwear), fashion accessories (scarves, belts) and soft home furnishings (bedding, curtains, upholstery). We help our customers go beyond regulatory requirements to consistently meet consumer demand for high quality, minimize reputational risk, reduce environmental impacts and protect the interests of retailers, brands, textile manufacturers and consumer safety.</p>
+										<h1>Shed Removal near Columbus, OH</h1>
+										
+										<p>Sheds naturally draw clutter, and they have a propensity to accumulate clutter and disorder over time. Beginning with a few lawnmowers and gardening tools, you soon discover that the shed is stuffed to the brim with useless goods that have been left unattended for many years. Your backyard's once-pretty and useful storage section has now grown dated and weathered, destroying the aesthetic of the entire space and turning what was once a nice and useful storage area into an eyesore. By contacting us for our shed removal services in Ohio right away, you can bring your shed back to its former splendor.</p>
+										<p>We want to come out and personally inspect the structure on your property before we remove it so that we can accurately assess the situation and develop a removal strategy. We'll then enter and start dismantling it piece by piece. The length of time may vary depending on the size of the construction. Once they have a look at the project, our professionals should be able to offer you an anticipated removal time. While that happens, sit back and observe as your undesired construction is taken down!</p>
+										<h1>Our Method</h1>
+										<p>Shed removal can get tricky. However, with the right professional help, this task can be made simple. Take us to the shed when we get to your property so we can start evaluating the task at hand. After that, we will present you with a free quote for your consideration. Just give us the go-ahead if you're happy with the pricing, and we'll start the demolition process right away.
+
+Designation Dump is aware of how to take down a building like a shed gently and safely. Planning the breakdown procedure carefully will help us avoid any accidents or damage. We are also completely insured, so you won't need to worry about any concerns. We'll carry the shed to our truck once it's been taken down, then we'll transport the materials for recycling.</p>
 									</div>
+
+									
 
 									{/* Check List Shortcode */}
 						
@@ -63,43 +71,37 @@ export default function ServiceSingle2() {
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Accessory Testing</p>
+														<span>Wood Sheds</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Activewear Testing</p>
+														<span>Metal Sheds</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>AP/APEOs Quick Test</p>
+														<span>Backyard Sheds</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Apparel Testing</p>
+														<span>Storage Sheds</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Auditing and Systems Certification</p>
+														<span>Garden Sheds</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Chemical Smart Screening</p>
-													</div>
-												</li>
-												<li>
-													<div className="item">
-														<Check className="fn__svg" />
-														<p>Children&apos;s Textile and Apparel Testing</p>
+														<span>& More</span>
 													</div>
 												</li>
 											</ul>

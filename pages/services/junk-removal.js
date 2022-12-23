@@ -11,7 +11,7 @@ import List from '../../layout/list'
 export default function ServiceSingle1() {
 	return (
 		<>
-		<Title title='Service Single 1' />
+		<Title title='Junk Removal Columbus OH' />
 			<Layout>
 				{/* Page Title  */}
 				<div className="industify_fn_pagetitle">
@@ -50,10 +50,20 @@ export default function ServiceSingle1() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Ensure the strength, integrity and conformity of your construction and engineering processes and products by using Industry’s specialised services.</p>
-										<p>The construction and engineering industries face a unique set of challenges such as ensuring projects are completed on schedule, that the products used are both safe and of a certain quality, costs do not overrun, compliance to corporate social responsibility standards are adhered to and effective risk management is applied at every step of the way.</p>
-										<p>At Industry, we offer your organisation the guidance it needs to reinforce your vital construction and engineering plans. Assisting our clients in streamlining and securing supply chains and manufacturing processes, our services enable product and project optimisation. Additionally, our programmes and services, such as our ETL and Warnock Hersey marks, can bring your business industry recognition and validation.</p>
-										<p>We are your partner in assuring your products and processes are strong, viable, and prepared to meet the market demands wherever you do business.</p>
+										<h1>Junk Removal & Disposal near Columbus, OH</h1>
+										<p>No matter what you do, you must frequently remove junk to prevent it from building up, smelling bad, and harming your health.</p>
+										
+										<p>This is where Columbus, Ohio's top junk removal business, Desgination Dump, steps in.
+
+We rapidly and safely remove and dispose your waste  thanks to our reputable team of qualified junk removers.</p>
+<h1>What Do We Haul Away?</h1>
+<p>No need to call various businesses to get various objects removed. We take away furniture, appliances, metals, tools, toxic wastes, mountains of trash, instruments, pool tables, old lawnmowers that are no longer functional, etc. Nothing is overlooked! The materials will then be appropriately sorted for disposal, recycling, and/or donation.</p>
+<h1>Our Commitment</h1>
+<p>We are not a junk removal service that abandons you in the dark.
+
+Your time is valuable to us, and we put a high focus on your pleasure.
+
+We provide immediate free quotes, maintain a reasonable price structure, and always carry out our pickups on schedule.</p>
 									</div>
 
 									{/* Check List Shortcode  */}

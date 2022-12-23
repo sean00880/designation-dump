@@ -49,49 +49,117 @@ export default function ServiceSingle3() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Get your medical device tested and into the hands of your customers faster than ever before. Time to market starts with partnership, and for more than 50 years Industify has been partnering with medical device manufacturers to develop product assurance and global regulatory solutions for testing, certification and auditing.</p>
-										<p>Industify consulting and assurance services provided for medical devices are carried out by medical device experts of a separate legal entity who have no influence over any aspect of Industify Notified Body activities.</p>
+										<h1>Construction Debris Removal near Columbus, OH</h1>
+										<p>We are able to remove any debris that are typically left strewn around till pickup is feasible by using enough labor and powerful machinery for lifting and moving scraps. Instead of using up your precious time removing the rubbish, you may use it to finish the task at hand. Every step of the waste disposal process is meticulously managed by our professionals when we are on the job. You can rely on Designation Dump to dispose of any construction debris that needs to be cleared from your worksite with efficiency.</p>
+										<h1>What Kind of Construction Debris do We Remove?</h1>
+										<p>No matter how heavy or dangerous an object may be, we have the tools to remove it. We are trained to handle these materials safely. Whether it is nails, rocks, cement, glass or anything else, our  r construction debris removal services will streamline the process of disposing the materials responsibly. We put our clients first and respectfully ffollow the strictest safety guidelines to avoid any potentially fatal mishaps.</p>
 									</div>
 
 									{/* Check List Shortcode */}
 									<div className="fn_cs_check_list">
-										<h3>Service Features</h3>
+										<h3>We Recycle/Dispose/Donate the Following Construction Materials:</h3>
 										<div className="list">
 											<ul>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Requirements for Medical Equipment</p>
+														<span>Asphalt</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Medical Product Testing Solutions</p>
+														<span>Concrete</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Environmental &amp; Regulatory Services</p>
+														<span>Cardboard</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Medical Management Systems Certification</p>
+														<span>Wood</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Scientific Support Services</p>
+														<span>Metal</span>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Clinical Research Services</p>
+														<span>Tools</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Furniture</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Tiles</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Rocks</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Dirt</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Pipes</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Wiring</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Cement</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Drywall</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Plaster</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Toilets</span>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<span>Doors</span>
 													</div>
 												</li>
 											</ul>

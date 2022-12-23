@@ -20,7 +20,7 @@ export default function Principles() {
 								<ul>
 									<li><Link href="/"><a title="Home">Home</a></Link></li>
 									<li className="separator"><span></span></li>
-									<li><span className="bread-current">Principles</span></li>
+									<li><span className="bread-current">Getting Started with Junk Removal</span></li>
 								</ul>
 							</div>
 						</div>
@@ -37,10 +37,10 @@ export default function Principles() {
 									<div className="item">
 										<div className="item_left">
 											<h2>01.</h2>
-											<h3>Honesty</h3>
+											<h3>Pick Your Servive</h3>
 										</div>
 										<div className="item_right">
-											<p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
+											<p>Browse through our wide list junk removal and cleanout servies.</p>
 											<p>Vestibulum ac pellentesque dui. Phasellus accumsan enim ex, eu pulvinar nibh sodales sed. Nunc massa urna, varius pellentesque pulvinar quis, laoreet faucibus lectus. Integer vulputate leo a cursus laoreet. Curabitur a mi vitae velit faucibus viverra eget at enim.</p>
 											<p>Fusce interdum eget enim ac venenatis. Curabitur sem massa, placerat a metus in, laoreet tincidunt eros. Sed neque lorem, tincidunt non dapibus quis, pharetra porttitor mauris.</p>
 										</div>
