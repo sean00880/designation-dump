@@ -64,6 +64,7 @@ We rapidly and safely remove and dispose your waste  thanks to our reputable tea
 Your time is valuable to us, and we put a high focus on your pleasure.
 
 We provide immediate free quotes, maintain a reasonable price structure, and always carry out our pickups on schedule.</p>
+
 									</div>
 
 									{/* Check List Shortcode  */}

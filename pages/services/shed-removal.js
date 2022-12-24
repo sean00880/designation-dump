@@ -53,11 +53,12 @@ export default function ServiceSingle2() {
 										<h1>Shed Removal near Columbus, OH</h1>
 										
 										<p>Sheds naturally draw clutter, and they have a propensity to accumulate clutter and disorder over time. Beginning with a few lawnmowers and gardening tools, you soon discover that the shed is stuffed to the brim with useless goods that have been left unattended for many years. Your backyard's once-pretty and useful storage section has now grown dated and weathered, destroying the aesthetic of the entire space and turning what was once a nice and useful storage area into an eyesore. By contacting us for our shed removal services in Ohio right away, you can bring your shed back to its former splendor.</p>
-										<p>We want to come out and personally inspect the structure on your property before we remove it so that we can accurately assess the situation and develop a removal strategy. We'll then enter and start dismantling it piece by piece. The length of time may vary depending on the size of the construction. Once they have a look at the project, our professionals should be able to offer you an anticipated removal time. While that happens, sit back and observe as your undesired construction is taken down!</p>
-										<h1>Our Method</h1>
-										<p>Shed removal can get tricky. However, with the right professional help, this task can be made simple. Take us to the shed when we get to your property so we can start evaluating the task at hand. After that, we will present you with a free quote for your consideration. Just give us the go-ahead if you're happy with the pricing, and we'll start the demolition process right away.
+										
+										<h1>How We Remove Sheds</h1>
+										<p>Shed removal can get tricky. However, with the right professional help, this task can be made simple. Take us to the shed when we get to your property so we can start evaluating the task at hand. After that, we will present you with a free quote for your consideration. Just give us the go-ahead if you're happy with the pricing, and we'll start the demolition process right away.</p>
 
-Designation Dump is aware of how to take down a building like a shed gently and safely. Planning the breakdown procedure carefully will help us avoid any accidents or damage. We are also completely insured, so you won't need to worry about any concerns. We'll carry the shed to our truck once it's been taken down, then we'll transport the materials for recycling.</p>
+<h1>What To Expect?</h1>
+<p>Designation Dump is aware of how to take down a building like a shed gently and safely. Planning the breakdown procedure carefully will help us avoid any accidents or damage. We are also completely insured, so you won't need to worry about any concerns. We'll carry the shed to our truck once it's been taken down, then we'll transport the materials for recycling.</p>
 									</div>
 
 									

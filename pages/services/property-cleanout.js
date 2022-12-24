@@ -50,44 +50,49 @@ export default function ServiceSingle3() {
 									</div>
 
 									<div className="desc_holder">
-										
-										<p>Designation Dump's property cleanout services will assist you make the property ready for leasing when renters leave trash and furniture behind. Within a few hours, we can shorten the turnaround time and have your rental property thoroughly cleaned out.</p>
+									<h1>Property Cleanout near Columbus, OH</h1>
+									<p>Designation Dump's property cleanout services will assist you make the property ready for leasing when renters leave trash and furniture behind. Within a few hours, we can shorten the turnaround time and have your rental property thoroughly cleaned out.</p>
+									<p>We handle a range of property cleanouts, including estate cleanouts, garage cleanouts, attic cleanouts, and cleanouts of commercial spaces. Each of our cleanup services is carried out by a team of qualified experts. </p>
+									<h1>Residential Property Cleanout</h1>
+										<p>A few of the household cleanout services we provide at Designation Dump include garbage collection, attic storage cleanout, garage cleanout, and estate cleanout. We also remove unwanted appliances like microwaves, televisions and refrigerators, recycle waste, and get rid of mattress box springs and other large objects that can't fit in the typical dumpster.</p>
 										<p>We can handle everything, from one-off projects for private homes to regular schedules for REO property flippers, thanks to our expertise to provide full-service removal, hauling, and disposal. As soon as we get there, we go to work clearing out all of your extra items, whether they are from the garage, the basement, or the entire house.</p>
+										<h1>Commercial Property Cleanout</h1>
+										<p> For your commercial property cleanout needs in Ohio, we offer professional junk removal and disposal. We can handle any size clean-up assignment. We can clear out any commercial property, from tiny workshops to huge industrial complexes. To make sure that the cleanout of your property is safe and doesn't hurt the environment, we also handle the collection and recycling of electronic waste.</p>
 									</div>
 
 									{/* Check List Shortcode */}
 									<div className="fn_cs_check_list">
-										<h3>Service Features</h3>
+										<h3>What's Included in Property Cleanout?</h3>
 										<div className="list">
 											<ul>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Candles</p>
+														<p>Garbage Removal</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Food Contact Articles</p>
+														<p>Waste & E-Waste Removal</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Household and Kitchen Utensils</p>
+														<p>Foreclosures & Evictions</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Promotional Products</p>
+														<p>Churches & Religious Properties</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Pet Products</p>
+														<p>Yards</p>
 													</div>
 												</li>
 												<li>
@@ -100,6 +105,47 @@ export default function ServiceSingle3() {
 													<div className="item">
 														<Check className="fn__svg" />
 														<p>Auditing and Systems Certification</p>
+													</div>
+												</li>
+											</ul>
+										</div>
+										<h3>Types of Properties We Service:</h3>
+										<div className="list">
+											<ul>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Industrial Facilities</p>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Appartments & Condos</p>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Foreclosures & Evictions</p>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Churches & Religious Properties</p>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Institutions</p>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Other Facilities & Properties</p>
 													</div>
 												</li>
 											</ul>

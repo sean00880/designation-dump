@@ -52,114 +52,116 @@ export default function ServiceSingle3() {
 										<h1>Construction Debris Removal near Columbus, OH</h1>
 										<p>We are able to remove any debris that are typically left strewn around till pickup is feasible by using enough labor and powerful machinery for lifting and moving scraps. Instead of using up your precious time removing the rubbish, you may use it to finish the task at hand. Every step of the waste disposal process is meticulously managed by our professionals when we are on the job. You can rely on Designation Dump to dispose of any construction debris that needs to be cleared from your worksite with efficiency.</p>
 										<h1>What Kind of Construction Debris do We Remove?</h1>
-										<p>No matter how heavy or dangerous an object may be, we have the tools to remove it. We are trained to handle these materials safely. Whether it is nails, rocks, cement, glass or anything else, our  r construction debris removal services will streamline the process of disposing the materials responsibly. We put our clients first and respectfully ffollow the strictest safety guidelines to avoid any potentially fatal mishaps.</p>
+										<p>No matter how heavy or dangerous an object may be, we have the tools to remove it. We are trained to handle these materials safely. Whether it is nails, rocks, cement, glass or anything else, our construction debris removal services will streamline the process of disposing the materials responsibly. We put our clients first and respectfully ffollow the strictest safety guidelines to avoid any potentially fatal mishaps.</p>
+										<h1>Debris Disposal</h1>
+										<p>Designation Dump ensures that construction waste is disposed of in an effective, safe, and environmentally friendly manner so that you won't have to bother about picking up or disposing of the material after the project is finished. Our hauling experts will make sure that the construction waste is out of your way so that you can continue working, whether you require our services repeatedly throughout a construction project or only after completion.</p>
 									</div>
 
 									{/* Check List Shortcode */}
 									<div className="fn_cs_check_list">
-										<h3>We Recycle/Dispose/Donate the Following Construction Materials:</h3>
+										<h2>We Recycle/Dispose/Donate the Following Construction Materials:</h2>
 										<div className="list">
 											<ul>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Asphalt</span>
+														<h3>Asphalt</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Concrete</span>
+														<h3>Concrete</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Cardboard</span>
+														<h3>Cardboard</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Wood</span>
+														<h3>Wood</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Metal</span>
+														<h3>Metal</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Tools</span>
+														<h3>Tools</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Furniture</span>
+														<h3>Furniture</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Tiles</span>
+														<h3>Tiles</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Rocks</span>
+														<h3>Rocks</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Dirt</span>
+														<h3>Dirt</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Pipes</span>
+														<h3>Pipes</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Wiring</span>
+														<h3>Wiring</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Cement</span>
+														<h3>Cement</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Drywall</span>
+														<h3>Drywall</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Plaster</span>
+														<h3>Plaster</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Toilets</span>
+														<h3>Toilets</h3>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<span>Doors</span>
+														<h3>Doors</h3>
 													</div>
 												</li>
 											</ul>
