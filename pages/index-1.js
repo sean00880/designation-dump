@@ -35,27 +35,52 @@ export default function Index1() {
 
           {/* <!-- Hero Header --> */}
           <div className="fn_cs_hero_header">
-            <div className="container">
-              <div className="content_holder max450">
-                <div className="title_holder">
-                  <h3>Know About Mission <span>Statement</span></h3>
-                  <p>We are committed to providing the highest level of professionalism, service response, personalised solutions, competitive prices, professional and qualified, integrated design and quality workmanship.</p>
-                </div>
-                <div className="btn_holder fn_cs_lightgallery">
-                  <Link href="/services"><a className="discover">Discover our Website</a></Link>
-                  <span className="video lightbox" data-src="https://youtu.be/3j3SQEUfREs">
-                    <span className="icon"></span>
-                    <span className="text">Watch Video</span>
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="bg_holder">
-              <div className="o_img" style={{ "backgroundImage": "url(/img/hero.jpg)" }}></div>
-              <div className="o_color"></div>
-            </div>
-          </div>
-          {/* <!-- /Hero Header --> */}
+                        <div className="container2">
+                            <div className="content_holder max800">
+                                <div className="title_holder">
+                                    <h1>Professional Junk Removal Near Columbus, Ohio</h1>
+                                    <p>Based in Canal Winchester, Ohio. </p>
+                                </div>
+                                <Slider />
+                                
+                            </div>
+                            <div className="content_holder2 max800">
+                            <div className="contact_left">
+									<h3>Receive Your FREE Instant Quote!</h3>
+									<form className="contact_form" action="/" method="post" autoComplete="off" data-email="frenifyteam@gmail.com">
+
+
+										{/* Don't remove below code in avoid to work contact form properly.
+									You can chance dat-success value with your one. It will be used when user will try to contact via contact form and will get success message. */}
+
+										<div className="success" data-success="Your message has been received, we will contact you soon."></div>
+										<div className="empty_notice"><span>Please Fill Required Fields</span></div>
+										{/*  */}
+										<div className="items">
+											<div className="item">
+												<input id="name" type="text" placeholder="Name" />
+											</div>
+											<div className="item">
+												<input id="email" type="email" placeholder="Email" />
+											</div>
+											<div className="item">
+												<textarea id="message" placeholder="Message"></textarea>
+											</div>
+											<div className="item">
+												<Link href="#"><a id="send_message">Send Message</a></Link>
+											</div>
+										</div>
+									</form>
+								</div>
+                                
+                            </div>
+                        </div>
+                        <div className="bg_holder">
+                            <div className="o_img" style={{ background: `url(${headerBG})` }}></div>
+                            <div className="o_color"></div>
+                        </div>
+                    </div>
+                    {/* <!-- /Hero Header --> */}
 
           {/* <!-- Info List --> */}
           <div className="fn_cs_info_list full" data-cols="3">

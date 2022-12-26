@@ -261,6 +261,20 @@ input[type="button"]{
 	margin: 0 auto;
 	width: 100%;
 }
+
+.container2{
+	margin: 0 auto;
+	width: 100%;
+	display: flex;
+}
+
+@media(max-width: 1555px){
+	.container2{
+		flex-direction: column;
+	}
+}
+
+
 .max200{max-width: 200px;}
 .max250{max-width: 250px;}
 .max300{max-width: 300px;}
@@ -288,6 +302,7 @@ input[type="button"]{
 .max1400{max-width: 1400px;}
 .max1450{max-width: 1450px;}
 .max1500{max-width: 1500px;}
+.max1600{max-width: 1600px;}
 [data-margin-bottom]{margin-bottom: 20px;}
 [data-margin-top]{margin-top: 20px;}
 [data-padding-top]{padding-top: 20px;}

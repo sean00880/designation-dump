@@ -20,8 +20,9 @@ const slider5 = "/img/slider/5.jpg"
 export default function HomeSlider() {
     return (
         <>
+        
             <div className="industify_slider_alpha" data-desc-show="yes" data-category-show="yes" data-nav-types="square" data-autoplay-switch="enabled" data-autoplay-time="8000" data-effect="cards" data-progress="enabled" data-box-pos="cr" data-img-effect="enabled" data-text-effect="enabled">
-
+                
                 {/* <!-- Alpha Slider: navigation --> */}
                 <div className="owl_control">
                     <div className="fn_prev"><span><span className="a"></span><span className="b"></span><span className="c"></span></span></div>
@@ -34,6 +35,7 @@ export default function HomeSlider() {
                 {/* <!-- /Alpha Slider: pagination --> */}
 
                 {/* <!-- Alpha Slider: wrapper --> */}
+                
                 <Swiper
                     spaceBetween={2}
                     slidesPerView={1}
@@ -52,7 +54,7 @@ export default function HomeSlider() {
                 >
 
                     <SwiperSlide>
-                        <div className="item">
+                    <div className="item">
                             <div className="img_holder" style={{ "backgroundImage": `url(${slider1})` }}></div>
                             <div className="title_holder">
                                 <div className="inner">
@@ -64,6 +66,8 @@ export default function HomeSlider() {
                                 </div>
                             </div>
                         </div>
+                    
+                        
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="item">

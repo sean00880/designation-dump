@@ -5,6 +5,7 @@ import Title from '../layout/title';
 import Link from 'next/link';
 import { Arrow_r, PlayVideo, Stars } from '../public/svg/icon';
 import { Design, Drawing, Learning, TowerCrane } from '../public/svg/service/IconService';
+import Slider from '../components/Home/HomeSlider'
 
 const headerBG = "img/hero.jpg";
 const background1 = "img/about/rating_bg.jpg";
@@ -40,19 +41,44 @@ export default function Index3() {
 
                     {/* <!-- Hero Header --> */}
                     <div className="fn_cs_hero_header">
-                        <div className="container">
+                        <div className="container2">
                             <div className="content_holder max800">
                                 <div className="title_holder">
-                                    <h3>A Global Leader in Automotive Seating &amp; E-Systems.</h3>
-                                    <p>Industify Corporation is ranked #07 on the Fortune 500 with world-class products designed, engineered and manufactured by a diverse team of talented employees. Our vision is to be consistently recognized as the supplier of choice, an employer of choice, the investment of choice and a company that supports the communities where we do business.</p>
+                                    <h1>Professional Junk Removal Near Columbus, Ohio</h1>
+                                    <p>Based in Canal Winchester, Ohio. </p>
                                 </div>
-                                <div className="btn_holder fn_cs_lightgallery">
-                                    <Link href="/services"><a className="discover">Discover Industify</a></Link>
-                                    <span className="video lightbox" data-src="https://youtu.be/3j3SQEUfREs">
-                                        <span className="icon"></span>
-                                        <span className="text">Watch Video</span>
-                                    </span>
-                                </div>
+                                <Slider />
+                                
+                            </div>
+                            <div className="content_holder2 max800">
+                            <div className="contact_left">
+									<h3>Receive Your FREE Instant Quote!</h3>
+									<form className="contact_form" action="/" method="post" autoComplete="off" data-email="frenifyteam@gmail.com">
+
+
+										{/* Don't remove below code in avoid to work contact form properly.
+									You can chance dat-success value with your one. It will be used when user will try to contact via contact form and will get success message. */}
+
+										<div className="success" data-success="Your message has been received, we will contact you soon."></div>
+										<div className="empty_notice"><span>Please Fill Required Fields</span></div>
+										{/*  */}
+										<div className="items">
+											<div className="item">
+												<input id="name" type="text" placeholder="Name" />
+											</div>
+											<div className="item">
+												<input id="email" type="email" placeholder="Email" />
+											</div>
+											<div className="item">
+												<textarea id="message" placeholder="Message"></textarea>
+											</div>
+											<div className="item">
+												<Link href="#"><a id="send_message">Send Message</a></Link>
+											</div>
+										</div>
+									</form>
+								</div>
+                                
                             </div>
                         </div>
                         <div className="bg_holder">
@@ -94,81 +120,7 @@ export default function Index3() {
                     {/* <!-- /Introduce Shortcode --> */}
 
 
-                    {/* <!-- Service Classic Shortcode --> */}
-                    <div className="fn_cs_services_classic">
-                        <div className="container">
-                            <div className="list">
-                                <ul>
-                                    <li>
-                                        <div className="item">
-                                            <Link href="/service-single-1"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-                                            <span className="icon">
-                                                <Learning className="fn__svg" />
-                                            </span>
-                                            <h3>Preconstruction Estimating</h3>
-                                            <p>During this phase, we will work to provide a detailed analysis of the project and we will establish project expectations along with our clients.</p>
-                                            <span className="more_details">
-                                                <Link href="#"><a>
-                                                    More Details
-                                                    <Arrow_r className="fn__svg" />
-                                                </a></Link>
-                                            </span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div className="item">
-                                            <Link href="/service-single-2"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-                                            <span className="icon">
-                                                <Drawing className="fn__svg" />
-                                            </span>
-                                            <h3>General <br />Contracting</h3>
-                                            <p>The client retains an architect or engineer to design the project and to prepare the necessary drawings and specifications for new project.</p>
-                                            <span className="more_details">
-                                                <Link href="#"><a>
-                                                    More Details
-                                                    <Arrow_r className="fn__svg" />
-                                                </a></Link>
-                                            </span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div className="item">
-                                            <Link href="/service-single-3"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-                                            <span className="icon">
-                                                <TowerCrane className="fn__svg" />
-                                            </span>
-                                            <h3>Construction Management</h3>
-                                            <p>Under a Construction Management contract, the client secures the services of a construction manager to work with the design team.</p>
-                                            <span className="more_details">
-                                                <Link href="#"><a>
-                                                    More Details
-                                                    <Arrow_r className="fn__svg" />
-                                                </a></Link>
-                                            </span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div className="item">
-                                            <Link href="/service-single-4"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
-                                            <span className="icon">
-                                                <Design className="fn__svg" />
-                                            </span>
-                                            <h3>Design-Build</h3>
-                                            <p>In this section, we let clients select a design-build arrangement when they want to work with one contract entity, instead of several contractors and consultants.</p>
-                                            <span className="more_details">
-                                                <Link href="#"><a>
-                                                    More Details
-                                                    <Arrow_r className="fn__svg" />
-                                                </a></Link>
-                                            </span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    {/* <!-- /Service Classic Shortcode --> */}
-
+                    
 
 
                     {/* <!-- Info & Rating --> */}

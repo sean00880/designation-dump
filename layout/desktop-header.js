@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import Link from 'next/link'
 import { Facebook, Instagram, Linkedin, Twitter, Vk } from '../public/svg/social/IconSocial';
 const footerImage = "/img/footer/bg.jpg"
+const Logo = "/img/footer/DDLogo.png"
 const background = "img/call.png"
 
 export default function DesktopHeader() {
@@ -15,13 +16,13 @@ export default function DesktopHeader() {
 									
             <div className="industify_fn_header" style={{"position":"fixed", "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover",}}>
                 
-            <div className="backgroundWrapper" style={{  "background": "radial-gradient(ellipse at top, #595a59, #092009b5), radial-gradient(ellipse at bottom, #d6e4c9, #5d615dd6)", "color":"white",  "display":"flex"}}>
+            <div className="backgroundWrapper" style={{  "background": "radial-gradient(at center top, rgb(89, 90, 89), rgba(9, 32, 9, 0.71)), radial-gradient(at center bottom, rgb(2 233 66), rgb(14 99 38 / 61%))", "color":"white",  "display":"flex"}}>
                 {/* <!-- Header: Bottom Panel --> */}
                 <div className="header_inner">
                     <div className="menu_logo">
                         <Link href="/"><a>
                             <div className="flex-col flex">
-                            <h3>Designation Dump LLC</h3> <br /><h5> Waste Management Services</h5>
+                            <img className="desktop_logo" src="img/footer/DDLogo.png" alt="Designation Dump" />
                             </div>
                         </a></Link>
                     </div>
