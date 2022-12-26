@@ -32,7 +32,7 @@ export default function Index() {
 				{/* <!-- Hero Header --> */}
 				<div className="fn_cs_hero_header">
                         <div className="container2">
-                            <div className="content_holder max1500">
+                            <div className="content_holder">
                                 <div className="title_holder">
                                     <h1>Professional Junk Removal Near Columbus, Ohio</h1>
                                     <p>Based in Canal Winchester, Ohio. </p>
