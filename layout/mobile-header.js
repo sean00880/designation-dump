@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import MetisMenu from 'metismenujs';
 import Link from 'next/link'
 import { Facebook, Instagram, Linkedin, Twitter, Vk } from '../public/svg/social/IconSocial';
+import Image from 'next/image';
 
 
 export default function MobileHeader() {
@@ -20,7 +21,7 @@ export default function MobileHeader() {
 				<div className="m_toll_free_lang">
 					<div className="lang_switcher">
 						<ul>
-							<li className="active"><span>**5 Star Logo**</span></li>
+							<li className="active"><span><Image src='/../public/img/five-star.png' width={100} height={100}></Image></span></li>
 						</ul>
 					</div>
 					<div className="m_toll_free">
@@ -29,7 +30,7 @@ export default function MobileHeader() {
 						<span className="shape3"></span>
 						<div className="tf_in">
 							<div className="img_holder" style={{ "backgroundImage": "url(img/call.png)" }}></div>
-							<p><span>Toll Free:</span> 1-800-987-6543</p>
+							<p><span>Toll Free:</span> +1(220)666-2520</p>
 						</div>
 					</div>
 				</div>
