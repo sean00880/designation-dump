@@ -5786,7 +5786,7 @@ blockquote{
 }
 
 .fn_cs_hero_header .content_holder2{
-	width: 100%;
+	width: 50%;
 	float: left;
 	clear: both;
 	position: relative;
@@ -5799,6 +5799,12 @@ blockquote{
 	display: flex;
 	text-align: center;
 	padding-top:41vh;
+}
+
+@media(max-width: 1555px){
+	.fn_cs_hero_header .content_holder2{
+		width: 100%;
+	}
 }
 
 .fn_cs_hero_header .content_holder2 .contact_left{
@@ -5873,7 +5879,7 @@ blockquote{
 .fn_cs_hero_header h3{
 	margin: 0;
 	padding: 0;
-	font-size: 48px;
+	font-size: 27px;
 	line-height: 1;
 	font-weight: 300;
 	letter-spacing: 0px;
@@ -9852,11 +9858,12 @@ p{
 .marquee-list{
 	display: flex;
 	flex-direction: row;
+	
 }
 
 .marquee-list-container{
 	border: 3px solid #ffffffcc;
-    background: linear-gradient(45deg, #39802763, #0a0909b0);
+    background: linear-gradient(45deg, #b8cbb4, #ffffffb0);
     margin-top: 10px;
     /* color: white; */
     border-radius: 30px 9px;
@@ -9864,7 +9871,8 @@ p{
 
 
 
-.marquee-list li { margin: 0 30px; color:white; font-weight: 600; letter-spacing: 3px;}
+.marquee-list li { margin: 0 30px; color:#081d08; font-weight: 600; letter-spacing: 3px;}
+.marquee-list li:last-child { margin:0; margin-left:30px; margin-right: 0;}
 
 .container3{display: flex; flex-direction: column; width: 100%;}
 

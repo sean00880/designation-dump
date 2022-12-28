@@ -26,7 +26,7 @@ blockquote:before,blockquote:after {
 	content: none;
 }
 ul, ol{
-	margin:30px;	
+	margin:30px 15px;	
 }
 ul li, ol li{
 	margin-bottom:5px;
