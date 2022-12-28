@@ -38,13 +38,13 @@ export default function Index() {
                                     <h1>Professional Junk Removal Near Columbus, Ohio</h1>
                                     <p>Based in Canal Winchester, Ohio. </p>
                                 </div>
-								<div className="container3">
                                 <Slider />
-								<Marquee className='marquee-list-container' gradientColor={0}> <ul className="marquee-list"><li>Appliance Removal</li><li>Shed Removal</li><li>Deck Removal</li><li>Junk Removal</li></ul></Marquee>
-                                </div>
                             </div>
                             <div className="content_holder2">
                             <div className="contact_left">
+								<div className="container3">
+								<Marquee className='marquee-list-container' gradientColor={0}> <ul className="marquee-list"><li>Commercial Cleanout</li><li>Property Cleanout</li><li>Storage Cleanout</li><li>Construction Debris Removal</li><li>Appliance Removal</li><li>Shed Removal</li><li>Deck Removal</li><li>Junk Removal</li></ul></Marquee>
+                                </div>
 									<h3>Receive Your FREE Instant Quote!</h3>
 									<form className="contact_form" action="/" method="post" autoComplete="off" data-email="frenifyteam@gmail.com">
 
