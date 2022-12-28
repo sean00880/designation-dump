@@ -10,18 +10,18 @@ export default function BlogSingle1() {
 		<>
 			<Layout>
 				{/* Page Title */}
-				<Title title='Blog Single 1' />
+				<Title title='How much does removing junk cost?' />
 				<div className="industify_fn_pagetitle">
 					<div className="container">
 						<div className="title_holder">
-							<h3>Laing O’Rourke: Moves, projects and bids</h3>
+							<h3>How much does removing junk cost?</h3>
 							<div className="industify_fn_breadcrumbs">
 								<ul>
 									<li><Link href="/"><a title="Home">Home</a></Link></li>
 									<li className="separator"><span></span></li>
 									<li><Link href="/blog"><a title="Blog">Blog Posts</a></Link></li>
 									<li className="separator"><span></span></li>
-									<li><span className="bread-current">Laing O’Rourke: Moves, projects and bids</span></li>
+									<li><span className="bread-current">How much does removing junk cost?</span></li>
 								</ul>
 							</div>
 						</div>
@@ -53,14 +53,25 @@ export default function BlogSingle1() {
 											<li>2017 revenue of A$433 million</li>
 											<li>VINCI Construction expansion in the Pacific area</li>
 										</ul>
-										<p>On 23 October 2017, VINCI Construction finalised the acquisition of the Seymour Whyte company based in Queensland. The acquisition was finalised followed purchase of 100% of the shares of the company previously listed on the Sydney stock exchange.</p>
-										<p>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering, earthworks and utilities, notably for the construction of roads, bridges and water and pipeline infrastructure.</p>
-										<blockquote>“Seymour Whyte is a company that resembles us, with a strong entrepreneurial culture. This acquisition will enable us to expand synergies with VINCI Construction’s existing expertise in Australia and more broadly in the Pacific area,” said Jérôme Stubler, Chairman and Chief Executive Officer of VINCI Construction.</blockquote>
+										<p>You've come to the right place if you're looking for information on how much junk removal will cost in your neighborhood. The average cost of junk removal is $200, with a usual range of $89 to $350. Usually, a full truckload costs between $400 and $800. The minimum price ranges from $60 to $150 for a single item.</p>
+										<p>Perhaps you've had an old appliance sitting in your garage for a few weeks, or perhaps you haven't entered the garage for years. You keep claiming you'll "rent a hauler" but let's be honest... You can't be sure if all that time and energy you spend is worth it.</p>
 										<p>
+											
+											Fortunately, finding waste removal services online is nearly as simple as calling a taxi. The major exception is that prices for rubbish removal services can be confusing and are frequently just "estimates." You can never be completely certain about your expenditures. You can even end yourself in a game of telephone tag while obtaining various quotations, or you might have someone visit your home and give you an estimate right away.
+											</p>
+										<blockquote>“Seymour Whyte is a company that resembles us, with a strong entrepreneurial culture. This acquisition will enable us to expand synergies with VINCI Construction’s existing expertise in Australia and more broadly in the Pacific area,” said Jérôme Stubler, Chairman and Chief Executive Officer of VINCI Construction.</blockquote>
+										
 											<img className="alignleft" src="img/widget/1.jpg" alt="" />
-											This acquisition, added to that of HEB Construction in New Zealand in 2015, strengthens VINCI Construction’s operations in the Pacific area, where it generated 2016 revenue of €549 million, employs 2,000 people and delivers wide-ranging expertise in the highway construction, civil engineering, soil reinforcement and oil &amp; gas sectors.
-										</p>
-										<p>Over the past decade, Seymour Whyte Constructions has completed more than 80 infrastructure projects in Queensland and New South Wales, including modernisation of the Ipswich motorway, the access roads to the Sydney airport and, more recently, renovation of a section of the Bruce Highway motorway.</p>
+											<h1>Factors Affecting the Cost of Junk Removal</h1>
+											<p>Your estimated cost will always depend on a number of variables, including amount, size, weight, and location (i.e., how challenging it will be to transfer your belongings).</p>
+											<h3>1) The quantity of junk that needs to be removed</h3>
+											<p>
+The more objects that need to be moved, like with any waste removal service, the more expensive it will be. Designation Dump differs from the majority of junk removal services in that you won't be charged for the truck space that these items occupy.
+</p>
+<p>
+Going into 2023, you can wind up paying as much to have two tiny items removed as you would for one huge item as many businesses even have a starting fee of $200 or more! With prices starting at $99, Designation Dump is willing to pick up single items of any size.
+</p>
+										<p>We strive to offer our services at the most fair rates possible. When quoting our customers, we account for the complexity of the task. Tra</p>
 										<p>With more than 90 years of experience, Spiecapag is one of the world’s leading oil pipeline, gas pipeline and associated systems companies. Recent project references include participation in the huge PNG LNG project in Papua New Guinea in 2014. Spiecapag also played a notable role in the Incahuasi project in Bolivia at the end of 2015, and is currently involved in the Trans Adriatic Pipeline project in Greece and Albania. Spiecapag is part of the Entrepose Group, which designs, builds and operates onshore, offshore and underground production, transport and storage infrastructure for the oil &amp; gas and other energy industries.</p>
 										<p>This acquisition, added to that of HEB Construction in New Zealand in 2015, strengthens VINCI Construction’s operations in the Pacific area, where it generated 2016 revenue of €549 million, employs 2,000 people and delivers wide-ranging expertise in the highway construction, civil engineering, soil reinforcement and oil &amp; gas sectors, construction, civil engineering, soil reinforcement and oil &amp; gas sectors. This acquisition, added to that of HEB Construction in New Zealand in 2015, strengthens VINCI Construction’s operations in the Pacific area, where it generated 2016 revenue of €549 million, employs 2,000 people and delivers wide-ranging expertise in the highway construction, civil engineering, soil reinforcement and oil &amp; gas sectors.</p>
 									</div>

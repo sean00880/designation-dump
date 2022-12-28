@@ -6,6 +6,7 @@ import Title from '../layout/title'
 import Link from 'next/link'
 import { Arrow_r, Certificate, Checked, Quotes, Stars } from '../public/svg/icon'
 import { Design, Drawing, Learning, TowerCrane } from '../public/svg/service/IconService'
+import Marquee from "react-fast-marquee";
 const headerBG = "img/hero.jpg";
 
 const right = "/img/about/right2.jpg"
@@ -37,8 +38,10 @@ export default function Index() {
                                     <h1>Professional Junk Removal Near Columbus, Ohio</h1>
                                     <p>Based in Canal Winchester, Ohio. </p>
                                 </div>
+								<div className="container3">
                                 <Slider />
-                                
+								<Marquee className='marquee-list-container' gradientColor={0}> <ul className="marquee-list"><li>Appliance Removal</li><li>Shed Removal</li><li>Deck Removal</li><li>Junk Removal</li></ul></Marquee>
+                                </div>
                             </div>
                             <div className="content_holder2">
                             <div className="contact_left">
@@ -58,6 +61,9 @@ export default function Index() {
 											</div>
 											<div className="item">
 												<input id="email" type="email" placeholder="Email" />
+											</div>
+											<div className="item">
+												<input id="email" type="text" placeholder="Cell" />
 											</div>
 											<div className="item">
 												<textarea id="message" placeholder="Message"></textarea>
@@ -323,9 +329,9 @@ export default function Index() {
 
 				{/* <!-- Principles Modern --> */}
 				<div className="fn_cs_principles_modern">
-				<div className="title_holder"  style={{ "maxWidth": "100%", "padding": "5vh 12vh", "lineHeight":"2"}}>
+				<div className="title_holder_main"  style={{ "maxWidth": "100%", "padding": "5vh 12vh", "lineHeight":"2"}}>
 										
-										<h1  style={{ "color": "white", "textAlign": "center", "borderBottom":"3px solid white", "borderColor":"white"}}>Our 3 Step Process</h1>
+										<h1  style={{ "color": "#4e534f", "textAlign": "center", "borderBottom":"3px solid white", "borderColor":"white"}}>Our 3 Step Process</h1>
 										<p>Designation Dump is available to assist with organizing your clutter and removing your unwanted items. For all of your hauling needs, our highly regarded junk removal service offers quick service and simple solutions.</p>
 										<p>We can remove non-hazardous items, construction waste, and yard garbage from any part of your property, including the attic, basement, and backyard. We then dispose everything responsibly.</p>
 									</div>

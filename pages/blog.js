@@ -56,7 +56,7 @@ export default function Blog() {
 													</p>
 												</div>
 												<div className="title">
-													<h3><Link href="blog-single-1"><a>Laing O’Rourke: Moves, projects and bids</a></Link></h3>
+													<h3><Link href="blog-single-1"><a>How much does removing junk cost?</a></Link></h3>
 												</div>
 												<div className="excerpt_holder">
 													<p>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering. Acquisition of 100% of Seymour Whyte’s shares 2017</p>

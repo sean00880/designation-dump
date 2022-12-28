@@ -37,9 +37,13 @@ export default function MobileHeader() {
 				{/* <!-- LOGO & HAMBURGER --> */}
 				<div className="logo_hamb">
 					<div className="in">
-					<div className="flex-col flex">
-                            <h3>Designation Dump LLC</h3> <br /><h5> Waste Management Services</h5>
+					<div className="menu_logo">
+                        <Link href="/"><a>
+                            <div className="flex-col flex">
+                            <img className="desktop_logo" src="img/footer/DDLogo.png" alt="Designation Dump" />
                             </div>
+                        </a></Link>
+                    </div>
 						<div onClick={MobileMenuTrueFalse} className={!isMobileMenu ? "hamburger hamburger--collapse-r" : "hamburger hamburger--collapse-r is-active"}>
 							<div className="hamburger-box">
 								<div className="hamburger-inner"></div>
