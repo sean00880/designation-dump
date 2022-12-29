@@ -5805,6 +5805,13 @@ form{
 	padding: 0 23vh;
 }
 
+@media(max-width: 777px){
+	form{
+	padding: 0 4vh;
+	}
+}
+
+
 @media(max-width: 1555px){
 	.fn_cs_hero_header .content_holder2{
 		width: 100%;
