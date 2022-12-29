@@ -10,7 +10,7 @@ export default function BlogSingle1() {
 		<>
 			<Layout>
 				{/* Page Title */}
-				<Title title='How much does removing junk cost?' />
+				<Title title='Cost of Junk Removal in Ohio' />
 				<div className="industify_fn_pagetitle">
 					<div className="container">
 						<div className="title_holder">

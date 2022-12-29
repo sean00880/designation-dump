@@ -645,7 +645,7 @@ export default function Index() {
 											</div>
 											<div className="title_holder">
 												<p className="t_header">By <Link href="#"><a>Frenify</a></Link> — In <Link href="#"><a>Australia</a></Link></p>
-												<h3><Link href="/blog-single-1"><a>Laing O’Rourke: Moves, projects and bids</a></Link></h3>
+												<h3><Link href="/blog-single-1"><a>How much does removing junk cost?</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-1"><a>Read More</a></Link></p>
 											</div>
 										</div>
@@ -664,7 +664,7 @@ export default function Index() {
 											</div>
 											<div className="title_holder">
 												<p className="t_header">By <Link href="#"><a>Frenify</a></Link> — In <Link href="#"><a>Australia</a></Link></p>
-												<h3><Link href="/blog-single-2"><a>How to turn Victorian gasholders apartments</a></Link></h3>
+												<h3><Link href="/blog-single-2"><a>Best Seasons For Junk Removal</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-2"><a>Read More</a></Link></p>
 											</div>
 										</div>

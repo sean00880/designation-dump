@@ -5,23 +5,23 @@ import Title from '../layout/title'
 import Link from 'next/link'
 
 
-export default function BlogSingle3() {
+export default function BlogSingle1() {
 	return (
 		<>
 			<Layout>
 				{/* Page Title */}
-				<Title title='Blog Single 3' />
+				<Title title='Junk Removal Before Selling Real Estate' />
 				<div className="industify_fn_pagetitle">
 					<div className="container">
 						<div className="title_holder">
-							<h3>CITB appoints Peter Lauener as new chairman</h3>
+							<h3>Why Use a Junk Removal Company Before Selling a Property?</h3>
 							<div className="industify_fn_breadcrumbs">
 								<ul>
 									<li><Link href="/"><a title="Home">Home</a></Link></li>
 									<li className="separator"><span></span></li>
 									<li><Link href="/blog"><a title="Blog">Blog Posts</a></Link></li>
 									<li className="separator"><span></span></li>
-									<li><span className="bread-current">CITB appoints Peter Lauener as new chairman</span></li>
+									<li><span className="bread-current">Why Use a Junk Removal Company Before Selling a Property</span></li>
 								</ul>
 							</div>
 						</div>
@@ -43,27 +43,28 @@ export default function BlogSingle3() {
 								<div className="industify_fn_blog_single">
 
 									<div className="img_holder">
-										<img src="img/blog/3.jpg" alt="" />
+										<img src="img/blog/1.jpg" alt="" />
 									</div>
 
 									<div className="desc_holder">
 										<h5>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering.</h5>
-										<ul>
-											<li>Acquisition of 100% of Seymour Whyte’s shares</li>
-											<li>2017 revenue of A$433 million</li>
-											<li>VINCI Construction expansion in the Pacific area</li>
-										</ul>
-										<p>On 23 October 2017, VINCI Construction finalised the acquisition of the Seymour Whyte company based in Queensland. The acquisition was finalised followed purchase of 100% of the shares of the company previously listed on the Sydney stock exchange.</p>
-										<p>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering, earthworks and utilities, notably for the construction of roads, bridges and water and pipeline infrastructure.</p>
-										<blockquote>“Seymour Whyte is a company that resembles us, with a strong entrepreneurial culture. This acquisition will enable us to expand synergies with VINCI Construction’s existing expertise in Australia and more broadly in the Pacific area,” said Jérôme Stubler, Chairman and Chief Executive Officer of VINCI Construction.</blockquote>
 										<p>
-											<img className="alignleft" src="img/widget/1.jpg" alt="" />
-											This acquisition, added to that of HEB Construction in New Zealand in 2015, strengthens VINCI Construction’s operations in the Pacific area, where it generated 2016 revenue of €549 million, employs 2,000 people and delivers wide-ranging expertise in the highway construction, civil engineering, soil reinforcement and oil &amp; gas sectors.
+										Want to declutter your home before listing it for sale? Designation Dump is able to assist. Check out our extensive house cleaning services. For instance, we'll remove all the clutter and junk as well as outdated furniture and appliances. In other words, we possess the knowledge and experience required to complete the task promptly and effectively.</p>
+										
+										<p>
+										We at Designation Dump are aware of how difficult it can be to organize your home. Because of this, our team of experts is committed to giving you the best possible service. Consequently, you can quickly rid your home of unnecessary objects. ranging from substantial projects like estate clean outs to more modest ones like garage or basement clean outs. Above all, we have the expertise and tools needed to complete the work properly.
 										</p>
-										<p>Over the past decade, Seymour Whyte Constructions has completed more than 80 infrastructure projects in Queensland and New South Wales, including modernisation of the Ipswich motorway, the access roads to the Sydney airport and, more recently, renovation of a section of the Bruce Highway motorway.</p>
-										<p>With more than 90 years of experience, Spiecapag is one of the world’s leading oil pipeline, gas pipeline and associated systems companies. Recent project references include participation in the huge PNG LNG project in Papua New Guinea in 2014. Spiecapag also played a notable role in the Incahuasi project in Bolivia at the end of 2015, and is currently involved in the Trans Adriatic Pipeline project in Greece and Albania. Spiecapag is part of the Entrepose Group, which designs, builds and operates onshore, offshore and underground production, transport and storage infrastructure for the oil &amp; gas and other energy industries.</p>
-										<p>This acquisition, added to that of HEB Construction in New Zealand in 2015, strengthens VINCI Construction’s operations in the Pacific area, where it generated 2016 revenue of €549 million, employs 2,000 people and delivers wide-ranging expertise in the highway construction, civil engineering, soil reinforcement and oil &amp; gas sectors, construction, civil engineering, soil reinforcement and oil &amp; gas sectors. This acquisition, added to that of HEB Construction in New Zealand in 2015, strengthens VINCI Construction’s operations in the Pacific area, where it generated 2016 revenue of €549 million, employs 2,000 people and delivers wide-ranging expertise in the highway construction, civil engineering, soil reinforcement and oil &amp; gas sectors.</p>
-									</div>
+										<p>
+										Therefore, if you're seeking for a trustworthy and qualified house cleanout service, the only place to look is Designation Dump.
+										</p>
+										<h1>Drive Up Real Estate Value</h1>
+										<p>Buyers only have a limited understanding of a home's true condition when they view an advertisement. Their decision to buy or not to buy is already decided when they pull up to the house to take a look at it. So it's important to showcase a home in the greatest possible way.</p>
+										<p>Additionally, a realtor might easily lose their efficacy while attempting to clean up the house and manage their sales efforts. Because of this, real estate agents must incorporate hiring the services of a rubbish removal company into their success plan.</p>
+										<p>Real estate brokers can better control the buyer's perception and time, which are the two most crucial variables in selling a home, with the aid of junk removal firms. Every real estate agent wants to sell their home quickly and for the price the owner has determined. They will be able to accomplish these two goals with the aid of Designation Dump.</p>
+										<img className="alignleft" src="img/widget/1.jpg" alt="" />
+											<p>With years of experience in the junk removal business, we have the knowledge and tools required for any assignment including a house clean out. With flexible scheduling options, reasonable charges, and training in correct waste disposal methods, our staff will remove all of your unwanted goods swiftly and effectively.</p>
+										<p>It might be challenging to find a junk removal service in Ohio that is both trustworthy and reasonably priced. The ideal answer to your wants for house clean out is Designation Dump. Whether you require a regular garbage pickup service or are dealing with outdated furniture or appliances. You may be confident that your junk will be removed quickly with our team of knowledgeable and committed experts.</p>
+										</div>
 
 									<div className="industify_fn_tags">
 										<label>Tags:</label>

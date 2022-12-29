@@ -4993,7 +4993,7 @@ blockquote{
 .fn_cs_call_to_action .title_holder h3{
 	margin: 0;
 	padding: 0;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
     line-height: 1.1;
     letter-spacing: 0px;
@@ -5003,7 +5003,7 @@ blockquote{
 .fn_cs_call_to_action .title_holder p{
 	margin: 0;
 	padding: 0;
-	font-size: 18px;
+	font-size: 17px;
     font-weight: 400;
     line-height: 2.4;
     letter-spacing: 0px;
@@ -5791,7 +5791,7 @@ blockquote{
 	clear: both;
 	position: relative;
 	z-index: 5;
-	padding: 200px 3vh;
+	padding: 200px 0vh;
 	background-color:black;
 	flex-direction: column;
     justify-content: space-evenly;
@@ -5799,6 +5799,10 @@ blockquote{
 	display: flex;
 	text-align: center;
 	padding-top:41vh;
+}
+
+form{
+	padding: 0 23vh;
 }
 
 @media(max-width: 1555px){

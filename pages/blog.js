@@ -82,7 +82,7 @@ export default function Blog() {
 													</p>
 												</div>
 												<div className="title">
-													<h3><Link href="blog-single-2"><a>How to turn Victorian gasholders apartments</a></Link></h3>
+													<h3><Link href="blog-single-2"><a>Best Seasons For Junk Removal</a></Link></h3>
 												</div>
 												<div className="excerpt_holder">
 													<p>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering. Acquisition of 100% of Seymour Whyte’s shares 2017</p>
@@ -108,7 +108,7 @@ export default function Blog() {
 													</p>
 												</div>
 												<div className="title">
-													<h3><Link href="blog-single-3"><a>CITB appoints Peter Lauener as new chairman</a></Link></h3>
+													<h3><Link href="blog-single-3"><a>Why Use a Junk Removal Company Before Selling a Property?</a></Link></h3>
 												</div>
 												<div className="excerpt_holder">
 													<p>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering. Acquisition of 100% of Seymour Whyte’s shares 2017</p>
@@ -120,9 +120,14 @@ export default function Blog() {
 										</div>
 									</li>
 									<li>
-										<div className="post">
+										<div className="post has-post-thumbnail">
 											<div className="time"><span></span><h3>25</h3><h5>Aug</h5><h5>2021</h5></div>
+											<div className="img_holder">
+												<Link href="blog-single-4"><a><img src="img/blog/3.jpg" alt="" /></a></Link>
+												<span className="shape1"></span><span className="shape2"></span>
+											</div>
 											<div className="content_holder">
+												
 												<div className="info_holder">
 													<p>
 														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Frenify</a></Link></span>
@@ -130,7 +135,7 @@ export default function Blog() {
 													</p>
 												</div>
 												<div className="title">
-													<h3><Link href="blog-single-4"><a>New Tower in the Centre of Warsaw</a></Link></h3>
+													<h3><Link href="blog-single-4"><a>Top 5 Advantages of Using Junk Removal Services</a></Link></h3>
 												</div>
 												<div className="excerpt_holder">
 													<p>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering. Acquisition of 100% of Seymour Whyte’s shares 2017</p>
