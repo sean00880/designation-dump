@@ -21,6 +21,9 @@ const map = "/img/blog/map.png"
 const blog1 = "/img/blog/1.jpg"
 const blog2 = "/img/blog/2.jpg"
 const blog3 = "/img/blog/3.jpg"
+import Fade from 'react-reveal/Fade';
+import Flip from 'react-reveal/Flip';
+import Slide from 'react-reveal/Slide';
 
 
 export default function Index() {
@@ -35,12 +38,19 @@ export default function Index() {
                         <div className="container2">
                             <div className="content_holder">
                                 <div className="title_holder">
+						<Fade left>
+									<Flip top>
                                     <h1>Professional Junk Removal Near Columbus, Ohio</h1>
+									</Flip>
+									<Flip bottom>
                                     <p>Based in Canal Winchester, Ohio. </p>
+									</Flip>
+						</Fade>
                                 </div>
                                 <Slider />
                             </div>
                             <div className="content_holder2">
+						<Fade right>
                             <div className="contact_left">
 								<div className="container3">
 								<Marquee className='marquee-list-container' gradientColor={0} speed={20}> <ul className="marquee-list" aria-hidden="true"><li>Commercial Cleanout</li><li>Property Cleanout</li><li>Storage Cleanout</li><li>Construction Debris Removal</li><li>Appliance Removal</li><li>Shed Removal</li><li>Deck Removal</li><li>Junk Removal</li></ul></Marquee>
@@ -74,6 +84,7 @@ export default function Index() {
 										</div>
 									</form>
 								</div>
+							</Fade>
                                 
                             </div>
                         </div>
@@ -102,9 +113,13 @@ export default function Index() {
 <div className="fn_cs_about">
 	<div className="container">
 		<div className="a_inner">
+				<Fade left>
 			<div className="leftpart">
 				<div className="title_holder">
+				<Flip top>
 					<h3 className="title">We are Designation Dump</h3>
+									</Flip>
+									
 					<p> Designation Dump is a rising pioneer when it comes to offering waste management services in Canal Winchester, Ohio, and the nearby areas in Columbus, Ohio..</p>
 					<p>We are devoted to offering the highest caliber of work with professionalism to keep your enviorenment clean and safe.</p>
 				</div>
@@ -113,6 +128,8 @@ export default function Index() {
 					<p className="occ">C.E.O.</p>
 				</div>
 			</div>
+					</Fade>
+					<Fade right>
 			<div className="rightpart">
 				{/* <div className="r_inner" id="scene">
 					<div className="layer border" data-depth="0.3">
@@ -143,6 +160,7 @@ export default function Index() {
 					</div>
 				</div>
 			</div>
+			</Fade>
 		</div>
 	</div>
 </div>
@@ -151,7 +169,9 @@ export default function Index() {
 </div>
 {/* <!-- /About Section --> */}
 <div className="title_holder" style={{ "color": "#455245"}} >
+<Slide bottom>
 										<h1  style={{ "color": "black", "textAlign": "center", "borderBottom":"3px solid black"}}>Junk Removal in Canal Winchester, OH</h1>
+										</Slide>
 										<p>Do you feel totally overwhelmed by your junk situation? Do you have one or two large items that might be hazardous or at the very least challenging for you to remove on your own? Designation Dump is available to help! To begin with anything you could have in mind, get in touch with us right away. You can use our expertise, equipment, friendliness, and professionalism to solve any problems you might be having. Everything can be handled by us in the safest, most effective way possible.</p>
 										<p>For local communities, junk disposal is a crucial component of sustainable waste management. It allows us to reuse or properly dispose of materials that might otherwise be thrown out as trash and helps keep our environment clean. Additionally, it lessens the quantity of trash that is disposed of in landfills and incinerators, making the world a cleaner and safer environment.</p>
 										<p>We provide junk removal services for home and commercial clients, including but not limited to offices, retail establishments, offices, and building sites. We take pleasure in our customer service and enjoy a challenge, so we take on any challenging jobs, no matter how big or small, and we always make sure that your waste is disposed appropriately, whether that means being recycled, donated, or in some other way.</p>
@@ -247,6 +267,7 @@ export default function Index() {
 				{/* <!-- /Description Shortcode --> */}
 
 				{/* <!-- Button Shortcode --> */}
+				<Slide top>
 				<div className="fn_cs_button" style={{ "width": "auto"}}>
 					<div className="container max1500">
 						<div className="inner max500">
@@ -254,6 +275,7 @@ export default function Index() {
 						</div>
 					</div>
 				</div>
+				</Slide>
 				{/* <!-- /Button Shortcode --> */}
 
 
@@ -268,7 +290,9 @@ export default function Index() {
 							<div className="awr_inner">
 								<div className="left_part">
 									<div className="title_holder">
+									<Flip top>
 										<h3 style={{"color":"#608560"}}>Why choose Designation Dump?</h3>
+										</Flip>
 										<p>Beyond just removing unwanted objects from your house, our junk removal services go above and beyond. We're willing to do all the labor-intensive work for your particular waste management requirements—we accept any job, no matter how big or small.</p>
 										<p>Our key mission is to reduce the carbon footprint by making the most of the garbage through donation, recycling, and limited disposal.</p>
 									</div>
@@ -643,7 +667,7 @@ export default function Index() {
 												<img src="img/thumb/370-250.jpg" alt="" />
 											</div>
 											<div className="title_holder">
-												<p className="t_header">By <Link href="#"><a>Frenify</a></Link> — In <Link href="#"><a>Australia</a></Link></p>
+												<p className="t_header">By <Link href="#"><a>Decoded Web</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
 												<h3><Link href="/blog-single-1"><a>How much does removing junk cost?</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-1"><a>Read More</a></Link></p>
 											</div>
@@ -662,7 +686,7 @@ export default function Index() {
 												<img src="img/thumb/370-250.jpg" alt="" />
 											</div>
 											<div className="title_holder">
-												<p className="t_header">By <Link href="#"><a>Frenify</a></Link> — In <Link href="#"><a>Australia</a></Link></p>
+												<p className="t_header">By <Link href="#"><a>Decoded Web</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
 												<h3><Link href="/blog-single-2"><a>Best Seasons For Junk Removal</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-2"><a>Read More</a></Link></p>
 											</div>
@@ -681,8 +705,8 @@ export default function Index() {
 												<img src="img/thumb/370-250.jpg" alt="" />
 											</div>
 											<div className="title_holder">
-												<p className="t_header">By <Link href="#"><a>Frenify</a></Link> — In <Link href="#"><a>Australia</a></Link></p>
-												<h3><Link href="/blog-single-3"><a>CITB appoints Peter Lauener as new chairman</a></Link></h3>
+												<p className="t_header">By <Link href="#"><a>Decoded Web</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
+												<h3><Link href="/blog-single-3"><a>Why Use a Junk Removal Company Before Selling a Property?</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-3"><a>Read More</a></Link></p>
 											</div>
 										</div>

@@ -2602,7 +2602,7 @@ a:focus {
 	min-height: 100px;
 }
 .contact_left a:hover{
-	background-color: #45a2df;
+	background-color: #202122;
 }
 .contact_left a{
 	display: inline-block;
@@ -5833,6 +5833,7 @@ form{
 @media(max-width: 1555px){
 	.fn_cs_hero_header .content_holder2{
 		width: 100%;
+		padding: 0;
 	}
 }
 

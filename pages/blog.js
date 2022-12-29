@@ -51,8 +51,8 @@ export default function Blog() {
 											<div className="content_holder">
 												<div className="info_holder">
 													<p>
-														<span className="t_author">By <Link href="https://frenify.com/"ink><a target="_blank" rel="noreferrer">Frenify</a></Link></span>
-														<span className="t_category">In Australia</span>
+														<span className="t_author">By <Link href="https://frenify.com/"ink><a target="_blank" rel="noreferrer">Designation Dump</a></Link></span>
+														<span className="t_category">In Columbus, OH</span>
 													</p>
 												</div>
 												<div className="title">
@@ -77,8 +77,8 @@ export default function Blog() {
 											<div className="content_holder">
 												<div className="info_holder">
 													<p>
-														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Frenify</a></Link></span>
-														<span className="t_category">In Discussion</span>
+														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Designation Dump</a></Link></span>
+														<span className="t_category">In Canal Winchester, OH</span>
 													</p>
 												</div>
 												<div className="title">
@@ -103,8 +103,8 @@ export default function Blog() {
 											<div className="content_holder">
 												<div className="info_holder">
 													<p>
-														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Frenify</a></Link></span>
-														<span className="t_category">In Industry</span>
+														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Designation Dump</a></Link></span>
+														<span className="t_category">In Columbus, OH</span>
 													</p>
 												</div>
 												<div className="title">
@@ -130,8 +130,8 @@ export default function Blog() {
 												
 												<div className="info_holder">
 													<p>
-														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Frenify</a></Link></span>
-														<span className="t_category">In Planning</span>
+														<span className="t_author">By <Link href="https://frenify.com/"><a target="_blank" rel="noreferrer">Designation Dump</a></Link></span>
+														<span className="t_category">In Columbus, OH</span>
 													</p>
 												</div>
 												<div className="title">
