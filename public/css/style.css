@@ -160,6 +160,7 @@ a:focus {
 	float: left;
 	clear: both;
 	padding: 0 8px;
+	margin-top: -50px;
 }
 
 .industify_fn_mobilemenu_wrap .logo_hamb h3, .industify_fn_mobilemenu_wrap .logo_hamb h5{
@@ -251,12 +252,15 @@ a:focus {
 	margin-right: 20px;
 }
 
-@media(max-width: 400px){
+@media(max-width: 410px){
 .industify_fn_mobilemenu_wrap .menu_logo{
 	margin-right: 20px;
-	top:-40px;
 	position:relative;
-}}
+}
+
+
+
+}
 
 .industify_fn_mobilemenu_wrap .m_toll_free_lang{
 	width: 100%;
@@ -2595,7 +2599,7 @@ a:focus {
 	margin-bottom: 0;
 }
 .contact_left textarea{
-	min-height: 200px;
+	min-height: 100px;
 }
 .contact_left a:hover{
 	background-color: #45a2df;
@@ -3485,11 +3489,18 @@ blockquote{
 	
 }
 
+
+
 @media(max-width: 1040px){
 .industify_fn_mobilemenu_wrap{
 	height: 29vh;
 }
 }
+
+@media(max-width: 410px){
+	.industify_fn_mobilemenu_wrap{
+		height: 33vh;
+	}}
 /*------------------------------------------------------------------*/ 
 /*	Shortcode #1 SLIDER ALPHA
 /*------------------------------------------------------------------*/
@@ -4614,8 +4625,7 @@ blockquote{
 	color: #666;
 }
 .fn_cs_about_with_rating .title_holder{
-	width: 400px;
-    min-width: 400px;
+	width: auto;
 	padding-top: 32px;
 }
 .fn_cs_about_with_rating .title_holder h3{
@@ -5785,6 +5795,14 @@ blockquote{
 	}
 }
 
+@media(max-width: 400px){
+	.fn_cs_hero_header .content_holder{
+
+		height: 67vh;
+		padding-top: 0;
+	}
+}
+
 .fn_cs_hero_header .content_holder2{
 	width: 50%;
 	float: left;
@@ -5846,7 +5864,7 @@ form{
 	}
 
 	.fn_cs_hero_header .content_holder2 .contact_left{
-		padding: 0 2vh;
+		padding: 2vh 2vh;
 
 	}
 }
@@ -7993,8 +8011,7 @@ form{
     flex-direction: row;
 }
 .fn_cs_project_sticky_modern .left_part{
-	width: 400px;
-    min-width: 400px;
+	width: auto;
 }
 .fn_cs_project_sticky_modern .left_part_in{
 	width: 100%;

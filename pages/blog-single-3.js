@@ -43,7 +43,7 @@ export default function BlogSingle1() {
 								<div className="industify_fn_blog_single">
 
 									<div className="img_holder">
-										<img src="img/blog/1.jpg" alt="" />
+										<img src="img/blog/3.jpg" alt="" />
 									</div>
 
 									<div className="desc_holder">

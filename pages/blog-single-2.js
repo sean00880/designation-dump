@@ -49,11 +49,17 @@ export default function BlogSingle1() {
 									<div className="desc_holder">
 										<h5>Seymour Whyte employs 475 people and generated revenue of A$433 million in the fiscal year ended on 30 June 2017. Founded in 1987, Seymour Whyte is a well-known Australian company operating in the fields of civil engineering.</h5>
 										<p>
-										We at Designation Dump are aware of how difficult it can be to organize your home. Because of this, our team of experts is committed to giving you the best possible service. Consequently, you can quickly rid your home of unnecessary objects. ranging from substantial projects like estate clean outs to more modest ones like garage or basement clean outs. Above all, we have the expertise and tools needed to complete the work properly.</p>
+										Of course, you don't have a ton of clutter in your room that needs to be eliminated every day. So when exactly should you get a junk removal service to remove the junk? The optimal time to remove household junk varies for each person due to a variety of circumstances.
+										</p>
+										<h1>Seasons Ranked: Best To Worst</h1>
+										<p>
+											
+										
+										This article will teach you more about the various aspects that affect when it is appropriate for you to hire a junk removal service. Here are some of the greatest times of the year to arrange junk removal services:</p>
 											<img className="alignleft" src="img/widget/1.jpg" alt="" />
-											x<h3>1) Fall Season</h3>
+											<h3>1) Fall Season</h3>
 
-<p>Therefore, if you're seeking for a trustworthy and qualified house cleanout service, the only place to look is Designation Dump.</p>
+<p>Even though it might seem like a bad idea to have your junk picked up as the weather changes, we are convinced that doing so will only make your life easier.</p>
 										<p>Given how pleasant the weather is in the fall, it might be the perfect time to work both inside and outside. After all, getting rid of clutter in extreme temperatures can be difficult. This is the reason why many individuals favor fall junk removal over summer and winter.</p>
 										<p>The majority of junk removal jobs are completed in the fall since the weather is favorable for both interior and outdoor junk removal.</p>
 										<h3>2) Summer Season</h3>

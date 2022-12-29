@@ -614,8 +614,7 @@ export default function Index() {
 					<div className="title_holder" style={{ "maxWidth": "100%", "padding": "0 40px"}}>
 										<h1  style={{ "color": "black", "textAlign": "center", "borderBottom":"3px solid black"}}>Our Blog</h1>
 										<p>At Desgination Dump, we rely on honesty, discipline and hard work and believe our success can be attributed to upholding a simple set of core values that date back to the beginning of the company.</p>
-										<p>Desgination Dump is an integrated design-build firm offering engineering, architecture and construction services to domestic and international customers throughout the U.S. Unique to Industify is the fact that we conduct all disciplines in-house in a collaborative environment.</p>
-									</div>
+										</div>
 						<div className="container">
 							
 							<div className="title_holder">
