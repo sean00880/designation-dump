@@ -14,9 +14,9 @@ export default function DesktopHeader() {
         <>
         
 									
-            <div className="industify_fn_header" style={{"position":"fixed", "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover",}}>
+            <div className="industify_fn_header" style={{"position":"fixed", "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover", "backgroundPosition":"center", "backgroundPositionY":"40vh"}}>
                 
-            <div className="backgroundWrapper" style={{  "background": "radial-gradient(at center top, rgb(89, 90, 89), rgba(9, 32, 9, 0.71)), radial-gradient(at center bottom, rgb(2 233 66), rgb(14 99 38 / 61%))", "color":"white",  "display":"flex"}}>
+            <div className="backgroundWrapper" style={{  "background": "radial-gradient(at center top, rgb(212 212 212 / 18%), rgb(0 0 0 / 42%)), radial-gradient(at center bottom, rgb(209 209 209 / 27%), rgb(48 54 50))", "color":"white",  "display":"flex"}}>
                 {/* <!-- Header: Bottom Panel --> */}
                 <div className="header_inner">
                     <div className="menu_logo">

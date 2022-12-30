@@ -3,7 +3,7 @@ import MetisMenu from 'metismenujs';
 import Link from 'next/link'
 import { Facebook, Instagram, Linkedin, Twitter, Vk } from '../public/svg/social/IconSocial';
 import Image from 'next/image';
-
+import Flip from 'react-reveal/Flip';
 
 export default function MobileHeader() {
 
@@ -54,6 +54,7 @@ export default function MobileHeader() {
 				</div>
 				{/* <!-- /LOGO & HAMBURGER --> */}
 				{/* <!-- MOBILE DROPDOWN MENU --> */}
+				<Flip bottom>
 				<div className={!isMobileMenu ? "mobilemenu" : "mobilemenu opened d-block"}>
 					<div>
 						<nav >
@@ -100,6 +101,7 @@ export default function MobileHeader() {
 						</nav>
 					</div>
 				</div>
+				</Flip>
 				{/* <!-- /MOBILE DROPDOWN MENU --> */}
 			</div>
 		</>
