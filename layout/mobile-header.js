@@ -30,7 +30,7 @@ export default function MobileHeader() {
 						<span className="shape3"></span>
 						<div className="tf_in">
 							<div className="img_holder" style={{ "backgroundImage": "url(img/call.png)" }}></div>
-							<p><span>Toll Free:</span> <a href="+1-220-666-2520">+1(220)666-2520</a></p>
+							<p><span>Toll Free:</span> <a href="+1-220-666-2520" style={{color:"white"}}>+1(220)666-2520</a></p>
 						</div>
 					</div>
 				</div>
