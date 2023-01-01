@@ -10,7 +10,7 @@ export default function BlogSingle1() {
 		<>
 			<Layout>
 				{/* Page Title */}
-				<Title title='Junk Removal Before Selling Real Estate' />
+				<Title title='Property Cleanout Guide' />
 				<div className="industify_fn_pagetitle">
 					<div className="container">
 						<div className="title_holder">

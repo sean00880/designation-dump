@@ -3910,7 +3910,9 @@ blockquote{
 	margin-top: -30px;
 	z-index: 3;
 	overflow: hidden;
-	padding: 13vh 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .fn_cs_principles_modern .title_holder_main{
@@ -4085,7 +4087,7 @@ blockquote{
 	
 }
 .fn_cs_principles_modern:after{
-	background: radial-gradient(ellipse at top, #595a59, #1b4824), radial-gradient(ellipse at bottom, #d6e4c9, #01ba52);
+	background: radial-gradient(ellipse at top, #464a46, #16291ab5), radial-gradient(ellipse at bottom, #d6e4c9, #333b37);
 }
 @media(max-width: 1200px){
 	.fn_cs_principles_modern ul li{width: 50%;}
@@ -4970,7 +4972,7 @@ blockquote{
 	font-size: 14px;
 }
 .fn_cs_call_to_action{
-	background-color: #3a4e40;
+	background-color: #1f211f;
 	padding: 50px 0px;
 	border:10px double rgb(219, 216, 216);
 }

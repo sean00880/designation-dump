@@ -10,7 +10,7 @@ export default function BlogSingle1() {
 		<>
 			<Layout>
 				{/* Page Title */}
-				<Title title='Junk Removal Before Selling Real Estate' />
+				<Title title='Top 5 Advantages of Using Junk Removal Services' />
 				<div className="industify_fn_pagetitle">
 					<div className="container">
 						<div className="title_holder">

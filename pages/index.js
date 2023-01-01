@@ -31,7 +31,6 @@ export default function Index() {
 		<>
 			<Title title='Junk Removal Near Columbus Ohio' />
 			<Layout className={"nobglight"}>
-				<Title title='Junk Removal Near Columbus Ohio' />
 
 				{/* <!-- Hero Header --> */}
 				<div className="fn_cs_hero_header">
@@ -360,7 +359,7 @@ export default function Index() {
 										<p>We can remove non-hazardous items, construction waste, and yard garbage from any part of your property, including the attic, basement, and backyard. We then dispose everything responsibly.</p>
 									</div>
 							
-					<div className="container">
+					<div className="container" style={{"padding": "8vh"}}>
 					
 						<div className="inner">
 							

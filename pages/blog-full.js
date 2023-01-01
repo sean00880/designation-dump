@@ -9,7 +9,7 @@ export default function BlogFull() {
 		<>
 			<Layout>
 				{/* <!-- Page Title --> */}
-				<Title title='Blog Full' />
+				<Title title='Junk Removal Blog' />
 				<div className="industify_fn_pagetitle">
 					<div className="container">
 						<div className="title_holder">
