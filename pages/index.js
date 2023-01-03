@@ -24,6 +24,7 @@ const blog3 = "/img/blog/3.jpg"
 import Fade from 'react-reveal/Fade';
 import Flip from 'react-reveal/Flip';
 import Slide from 'react-reveal/Slide';
+import Image from 'next/image'
 
 
 export default function Index() {
@@ -97,13 +98,47 @@ export default function Index() {
 				<div className="fn_cs_services_classic video_enable">
 					<div className="container max1500">
 
-						<div className="button_inner">
-							<span className="rounded"></span>
-							<Link  href="https://www.youtube.com/watch?v=cnzFPq_8428"><a className="popup-youtube"></a></Link>
-						</div>
-						<div className="video_holder">
-							<span className="video_bg"></span>
-						</div>
+
+						 {/* <!-- Introduce Shortcode --> */}
+						 <div className="fn_cs_introduce_wrap fn_cs_lightgallery" data-url-show="yes" data-wing-switch="enable">
+                        <div className="container">
+                            <div className="fn_cs_introduce">
+
+                                <span className="wing11"></span>
+                                <span className="wing12"></span>
+                                <span className="wing21"></span>
+                                <span className="wing22"></span>
+                               
+                                <div className="o_color"></div>
+
+                                <div className="content_holder">
+                                    <div className="title_holder">
+                                        <h5>Follow Us </h5>
+                                        <h3>On Social Media:</h3>
+                                        
+                                    </div>
+									<h4 style={{color:'#4c5850'}}>We are Columbus, Ohio's preferred Junk Removal business. Follow us & get updated on our latest news, promotions and more.</h4>
+									<div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-around'}} className='intro'>
+										<a href='https://www.instagram.com/designationdumpllc/'>
+										<div style={{textAlign: 'center' ,borderRadius:'8px'}} className='iconWrapper'>
+											
+										<Image src='/img/about/instagram.png' width='45' height='45' className='icon'/>
+										<br />
+										<h3>Instagram</h3>
+										</div>
+										</a>
+										<a href='https://www.facebook.com/profile.php?id=100088548921310'>
+										<div style={{ textAlign: 'center',borderRadius:'8px'}} className='iconWrapper'>
+										<Image src='/img/about/facebook.png' width='45' height='45' className='icon'/>
+										<br />
+										<h3>Facebook</h3>
+										</div>
+										</a>
+									</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
 						{/* <!-- About Section --> */}
 				<div className="about_section">

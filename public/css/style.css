@@ -7324,8 +7324,7 @@ form{
 	float: left;
 	clear: both;
 	position: relative;
-	padding: 40px 0px;
-	margin-top: -140px;
+	margin-top: -10%;
 }
 .fn_cs_introduce_wrap[data-url-show="no"] span.video{
 	display: none;
@@ -7366,8 +7365,11 @@ form{
 	clear: both;
 	position: relative;
 	z-index: 20;
+	display: flex;
+	flex-direction: column;
 }
 .fn_cs_introduce .o_color{
+
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -7375,12 +7377,11 @@ form{
 	bottom: 0px;
 	z-index: 5;
 	box-shadow: 10px 0px 40px rgba(0,0,0,0.08);
-	background-color: #081225;
+	background-color: #f0f0f0;
 }
 .fn_cs_introduce .title_holder{
-	width: 100%;
 	float: left;
-	padding-right: 12%;
+	padding-right: 5%;
 	
 	max-width: calc(100% - 240px);
 	max-width: -moz-calc(100% - 240px);
@@ -7402,7 +7403,7 @@ form{
 	letter-spacing: 0px;
 	font-weight: 300;
 	margin-bottom: 2px;
-	color: #fff;
+	color: #3a4e40;
 }
 .fn_cs_introduce .title_holder h3{
 	margin: 0px;
@@ -7411,10 +7412,11 @@ form{
 	letter-spacing: 0px;
 	font-weight: 500;
 	margin-bottom: 37px;
-	color: #fff;
+	color: #678a67;
 	line-height: 1;
 	position: relative;
 	left: -2px;
+	
 }
 .fn_cs_introduce .title_holder h3:after{
 	content: '';
@@ -9867,11 +9869,12 @@ p{
 .headings{
 	margin-bottom:30px;
 	background-color: white;
-	color: green;
+	color: #4b4e4b;
 	padding:30px;
 	border-radius: 72px;
 	box-shadow: 7px 7px 7px #586057;
 	cursor: pointer;
+	text-align: center;
 }
 
 @media(max-width: 1555px){
@@ -9915,6 +9918,40 @@ p{
 
 .container3{display: flex; flex-direction: column; width: 100%;}
 
+.iconWrapper{
+	background:#16161b;
+	padding: 30px;
+	border: 1px solid black;
+}
+
+.content_holder a{
+	text-decoration: none;
+}
+
+.iconWrapper:hover{
+	background:white;
+	transform: scale(1.03);
+	border: 1px solid #678a67a1;
+	
+}
+
+.iconWrapper:hover h3{
+	color:black;
+}
+
+
+.iconWrapper .icon{
+	background:white;
+	padding: 10px;
+	border-radius: 8px;
+	
+}
+.iconWrapper h3{
+	color: white;
+	margin-bottom: 0;
+	font-style: italic;
+}
+
 @media(max-width: 1555px){
 	.container3{
 		width: 100%;
@@ -9925,4 +9962,13 @@ p{
 	.container3{
 		width:100%;
 	}
+	.intro{
+		flex-direction: column;
+	
+	}
+
+	.intro div{
+		margin: 10px 0;
+	}
 }
+
