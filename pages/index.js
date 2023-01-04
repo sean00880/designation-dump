@@ -24,6 +24,7 @@ const blog3 = "/img/blog/3.jpg"
 import Fade from 'react-reveal/Fade';
 import Flip from 'react-reveal/Flip';
 import Slide from 'react-reveal/Slide';
+import Spin from 'react-reveal/Spin';
 import Image from 'next/image'
 
 
@@ -118,7 +119,7 @@ export default function Index() {
                                         
                                     </div>
 									<h4 style={{color:'#4c5850'}}>We are Columbus, Ohio's preferred Junk Removal business. Follow us & get updated on our latest news, promotions and more.</h4>
-									<div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-around'}} className='intro'>
+									<div style={{ justifyContent: 'space-around'}} className='intro'>
 										<a href='https://www.instagram.com/designationdumpllc/'>
 										<div style={{textAlign: 'center' ,borderRadius:'8px'}} className='iconWrapper'>
 											
@@ -327,8 +328,10 @@ export default function Index() {
 									<Flip top>
 										<h3 style={{"color":"#608560"}}>Why choose Designation Dump?</h3>
 										</Flip>
+										<Fade top>
 										<p>Beyond just removing unwanted objects from your house, our junk removal services go above and beyond. We're willing to do all the labor-intensive work for your particular waste management requirements—we accept any job, no matter how big or small.</p>
 										<p>Our key mission is to reduce the carbon footprint by making the most of the garbage through donation, recycling, and limited disposal.</p>
+										</Fade>
 									</div>
 									<div className="signature">
 										<Certificate className="fn__svg" />
@@ -452,13 +455,18 @@ export default function Index() {
                         <div className="container">
                             <div className="inner">
                                 <div className="left_part">
+								<Flip top>
                                     <h3>Our Core Values</h3>
+									</Flip>
+									<Fade top>
                                     <p>At Designation Dump, we rely on honesty, discipline and hard work and believe our success can be attributed to upholding a simple set of core values.</p>
 									<br />
                                     <p>Serving an impressive list of long-term clients, we are an organization of seasoned professionals with a tremendous breadth of construction experience and expertise across multiple industries.</p>
-                                </div>
+									</Fade>
+							    </div>
                                 <div className="right_part">
                                     <ul className="masonry">
+										<Spin right>
                                         <li className="masonry_in">
                                             <div className="item">
                                                 <div className="title_holder">
@@ -468,6 +476,8 @@ export default function Index() {
                                                 <div className="number_holder">01</div>
                                             </div>
                                         </li>
+										</Spin>
+										<Spin left>
                                         <li className="masonry_in">
                                             <div className="item">
                                                 <div className="title_holder">
@@ -477,6 +487,8 @@ export default function Index() {
                                                 <div className="number_holder">02</div>
                                             </div>
                                         </li>
+										</Spin>
+										<Spin right>
                                         <li className="masonry_in">
                                             <div className="item">
                                                 <div className="title_holder">
@@ -486,6 +498,8 @@ export default function Index() {
                                                 <div className="number_holder">03</div>
                                             </div>
                                         </li>
+										</Spin>
+										<Spin left>
                                         <li className="masonry_in">
                                             <div className="item">
                                                 <div className="title_holder">
@@ -495,6 +509,7 @@ export default function Index() {
                                                 <div className="number_holder">04</div>
                                             </div>
                                         </li>
+										</Spin>
                                     </ul>
                                 </div>
                             </div>
@@ -510,6 +525,7 @@ export default function Index() {
 
 
 				{/* <!-- Call to Action --> */}
+				<Slide bottom>
 				<div className="fn_cs_call_to_action">
 					<div className="container">
 						<div className="cta_holder">
@@ -523,9 +539,11 @@ export default function Index() {
 						</div>
 					</div>
 				</div>
+				</Slide>
 				{/* <!-- /Call to Action --> */}
 
 				{/* <!-- Testimonial Section --> */}
+				<Slide bottom>
 				<div className="testimonial_section" style={{ "backgroundImage": `url(${testimonial})` }}>
 
 					<div className="overlay"></div>
@@ -546,6 +564,7 @@ export default function Index() {
 					{/* <!-- /Single Testimonial Shortcode --> */}
 
 				</div>
+				</Slide>
 				{/* <!-- /Testimonial Section --> */}
 
 
@@ -670,7 +689,9 @@ export default function Index() {
 					{/* <!-- Main Title --> */}
 					<div className="fn_cs_main_title">
 					<div className="title_holder" style={{ "maxWidth": "100%", "padding": "0 40px"}}>
+						<Flip top>
 										<h1  style={{ "color": "black", "textAlign": "center", "borderBottom":"3px solid black"}}>Our Blog</h1>
+										</Flip>
 										<p>At Desgination Dump, we rely on honesty, discipline and hard work and believe our success can be attributed to upholding a simple set of core values that date back to the beginning of the company.</p>
 										</div>
 						<div className="container">

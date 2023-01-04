@@ -9958,6 +9958,11 @@ p{
 	}
 }
 
+.intro{
+	display: flex;
+	flex-direction: row;
+}
+
 @media(max-width: 768px){
 	.container3{
 		width:100%;
