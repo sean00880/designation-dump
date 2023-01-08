@@ -61,7 +61,7 @@ export default function HomeSlider() {
                                     <div className="in">
                                         <p><span>Avaiable 24/7</span></p>
                                         <h3><span>Junk Removal</span></h3>
-                                        <div className="desc"><span>Achieving this successfully calls for a vision of what can be and a distinct ability to identify opportunities for salvaging elements.</span></div>
+                                        <div className="desc"><span>We underpromise and overdeliver. Contact us & schedule a visit.</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -75,9 +75,9 @@ export default function HomeSlider() {
                             <div className="title_holder">
                                 <div className="inner">
                                     <div className="in">
-                                        <p><span>Construction</span></p>
-                                        <h3><span>New Construction</span></h3>
-                                        <div className="desc"><span>Industify was the first company to develop methods and equipment for the successful deep compaction of soil in the 1930s</span></div>
+                                        <h3><span>Residential Services</span></h3>
+                                        <p><span>House/Property Cleanout, Storage Cleanout, Shed & Deck Removal</span></p>
+                                        <div className="desc"><span>Whe can remove anything and everything from your home. We can clean out the junk piled up in your house bedrooms, attec, garage, storage unit, deck and more.</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -89,9 +89,9 @@ export default function HomeSlider() {
                             <div className="title_holder">
                                 <div className="inner">
                                     <div className="in">
-                                        <p><span>Modern</span></p>
-                                        <h3><span>Small Projects &amp; Maintenance</span></h3>
-                                        <div className="desc"><span>In addition to our large, ground up projects, we accommodate small to modest sized projects for our customers.</span></div>
+                                        <h3><span>Commercial Services</span></h3>
+                                        <p><span>Construction Debris Removal & Commercial Cleanout</span></p>
+                                        <div className="desc"><span>Designation Dump meticulously and efficiently carries out jobs of all complexities: simple or complex.</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -103,9 +103,9 @@ export default function HomeSlider() {
                             <div className="title_holder">
                                 <div className="inner">
                                     <div className="in">
-                                        <p><span>Technology</span></p>
-                                        <h3><span>Leed &amp; Green Building</span></h3>
-                                        <div className="desc"><span>Here at Industify, we take the same approach to green building that we take to every other aspect of our business.</span></div>
+                                        <h3><span>Other Waste Removal Services</span></h3>
+                                        <p><span>Appliance, Mattress & Hot Tub Removal</span></p>
+                                        <div className="desc"><span>Got specific items in mind and not sure what to do? Just give us a call. Whether it's a broken TV, a piano, firdge or any other appliance you need to get rid of or complicated waste that needs to be removed, we have you covered.</span></div>
                                     </div>
                                 </div>
                             </div>
@@ -117,9 +117,9 @@ export default function HomeSlider() {
                             <div className="title_holder">
                                 <div className="inner">
                                     <div className="in">
-                                        <p><span>Construction</span></p>
-                                        <h3><span>Design Build</span></h3>
-                                        <div className="desc"><span>Industify Industry Services has both the experience and expertise to successfully complete your project using the highly effective design-build approach.</span></div>
+                                        <h3><span>Eco-Friendly</span></h3>
+                                        <p><span>We Recycle, Donate & Follow Safe Disposal Practices</span></p>
+                                        <div className="desc"><span>We recycle biogdegradable waste and applropriately dispose of the remaining junk in the safest way possible. Parishable items are donated to charity</span></div>
                                     </div>
                                 </div>
                             </div>
