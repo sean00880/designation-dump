@@ -47,7 +47,7 @@ export default function Contact() {
 									You can chance dat-success value with your one. It will be used when user will try to contact via contact form and will get success message. */}
 
 										<div className="success" data-success="Your message has been received, we will contact you soon."></div>
-										<div className="empty_notice"><span>Please Fill Required Fields</span></div>
+										<div className="empty_notice"><span>Get In Touch With Us</span></div>
 										{/*  */}
 										<div className="items">
 											<div className="item">
@@ -57,10 +57,16 @@ export default function Contact() {
 												<input id="email" type="email" placeholder="Email" />
 											</div>
 											<div className="item">
+												<input id="phone" type="phone" placeholder="Phone" />
+											</div>
+											<div className="item">
+												<input id="subject" type="text" placeholder="Subject" />
+											</div>
+											<div className="item">
 												<textarea id="message" placeholder="Message"></textarea>
 											</div>
 											<div className="item">
-												<Link href="#"><a id="send_message">Send Message</a></Link>
+												<Link href="#"><a id="send_message"></a></Link>
 											</div>
 										</div>
 									</form>
@@ -79,59 +85,18 @@ export default function Contact() {
 															</span>
 															<span className="shape"></span>
 														</span>
-														<h3>Washington Office</h3>
+														<h3>Office</h3>
 													</div>
 													<div className="content_holder">
 														<ul>
-															<li>100-120 Ft.Drive NE, Washington, DC 20011</li>
+															<li>Slough Road, Canal Winchester, OH</li>
 															<li>Phone: +1 202-415-7234</li>
-															<li>Email: <Link href="mailto:w.industify@gmail.com"><a>w.industify@gmail.com</a></Link></li>
+															<li>Email: <Link href="mailto:w.industify@gmail.com"><a>fgrate</a></Link></li>
 														</ul>
 													</div>
 												</div>
 											</li>
 
-											<li className="location_item">
-												<div className="item">
-													<div className="title_holder">
-														<span className="icon_wrapper">
-															<span className="icon">
-																<Location className="fn__svg" />
-															</span>
-															<span className="shape"></span>
-														</span>
-														<h3>New-York Office</h3>
-													</div>
-													<div className="content_holder">
-														<ul>
-															<li>110-115 Ft.Consort NE, New-York, DC 20031</li>
-															<li>Phone: +1 272-436-4524</li>
-															<li>Email: <Link href="mailto:n.industify@gmail.com"><a>n.industify@gmail.com</a></Link></li>
-														</ul>
-													</div>
-												</div>
-											</li>
-
-											<li className="location_item">
-												<div className="item">
-													<div className="title_holder">
-														<span className="icon_wrapper">
-															<span className="icon">
-																<Location className="fn__svg" />
-															</span>
-															<span className="shape"></span>
-														</span>
-														<h3>Boston Office</h3>
-													</div>
-													<div className="content_holder">
-														<ul>
-															<li>100-120 Ft.Albemarle NE, Boston, DC 20017</li>
-															<li>Phone: +1 252-925-7564</li>
-															<li>Email: <Link href="mailto:b.industify@gmail.com"><a>b.industify@gmail.com</a></Link></li>
-														</ul>
-													</div>
-												</div>
-											</li>
 
 										</ul>
 									</div>

@@ -4111,7 +4111,7 @@ blockquote{
 	width: 100%;
 	float: left;
 	clear: both;
-	padding: 150px 0;
+	padding: 30px 0;
 }
 .fn_cs_about{
 	width: 100%;
@@ -4194,11 +4194,9 @@ blockquote{
 	z-index: -1;
 }
 .fn_cs_about .img_holder{
-	position: absolute;
+	position: relative;
 	z-index: 2;
 	right: 40px;
-	left: auto !important;
-	top: 40px !important;
 	box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
 }
 .fn_cs_about .abs_img{
@@ -4303,9 +4301,8 @@ blockquote{
 	.fn_cs_about .leftpart{width: 100%;min-width: 100%;margin-bottom: 50px;}
 	.fn_cs_about .rightpart{margin-left: 0px;}
 	.fn_cs_about .a_inner{flex-direction: column;}
-	.fn_cs_about .rightpart img{max-width: 100%;}
+	.fn_cs_about .rightpart img{max-width: 60%;}
 	.fn_cs_about .border{right: auto;left: 0px !important;float: left;}
-	.fn_cs_about .img_holder{left: 40px !important;right: auto !important;}
 	.fn_cs_about .dots{left: 80px !important;right: auto;}
 
 }

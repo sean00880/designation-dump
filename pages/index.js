@@ -56,7 +56,7 @@ export default function Index() {
 								<div className="container3">
 								<Marquee className='marquee-list-container' gradientColor={0} speed={20}> <ul className="marquee-list" aria-hidden="true"><li>Commercial Cleanout</li><li>Property Cleanout</li><li>Storage Cleanout</li><li>Construction Debris Removal</li><li>Appliance Removal</li><li>Shed Removal</li><li>Deck Removal</li><li>Junk Removal</li></ul></Marquee>
                                 </div>
-									<h3>Receive Your FREE Instant Quote!</h3>
+									<h3 style={{"fontStyle":"italic"}}>Receive Your FREE Instant Quote!</h3>
 									<form className="contact_form" action="/" method="post" autoComplete="off" data-email="frenifyteam@gmail.com">
 
 
@@ -64,7 +64,7 @@ export default function Index() {
 									You can chance dat-success value with your one. It will be used when user will try to contact via contact form and will get success message. */}
 
 										<div className="success" data-success="Your message has been received, we will contact you soon."></div>
-										<div className="empty_notice"><span>Please Fill Required Fields</span></div>
+										<div className="empty_notice"><span style={{"fontStyle":"italic"}}>Please Fill Required Fields</span></div>
 										{/*  */}
 										<div className="items">
 											<div className="item">
@@ -74,13 +74,16 @@ export default function Index() {
 												<input id="email" type="email" placeholder="Email" />
 											</div>
 											<div className="item">
-												<input id="email" type="text" placeholder="Cell" />
+												<input id="phone" type="text" placeholder="Phone" />
+											</div>
+											<div className="item">
+												<input id="subject" type="text" placeholder="Subject" />
 											</div>
 											<div className="item">
 												<textarea id="message" placeholder="Message"></textarea>
 											</div>
 											<div className="item">
-												<Link href="#"><a id="send_message">Send Message</a></Link>
+												<Link href="#"><a id="send_message">Request Quote</a></Link>
 											</div>
 										</div>
 									</form>
@@ -142,7 +145,7 @@ export default function Index() {
                     </div>
 
 						{/* <!-- About Section --> */}
-				<div className="about_section">
+				<div className="about_section" style={{"minHeight":"100vh", "display":"flex","flexDirection":"column","justifyContent":"center"}}>
 
 {/* <!-- About Shortcode --> */}
 <div className="fn_cs_about">
@@ -176,17 +179,10 @@ export default function Index() {
 					</div>
 				</div> */}
 				<div className="r_inner" id="scene" style={{ "transform": "translate3d(0px, 0px, 0px)", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden" }}>
-					<div className="layer border" data-depth="0.3" style={{ "position": "relative", "display": "block", "left": "0px", "top": "0px", "transform": "translate3d(21.2782px, -19.0075px, 0px)", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden" }}>
-						<span className="span1"></span>
-						<span className="span2"></span>
-						<img src="img/thumb/500-560.jpg" alt="" />
-					</div>
-					<div className="img_holder layer" data-depth="0.5" style={{ "position": "absolute", "display": "block", "left": "0px", "top": "0px", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden", "transform": "translate3d(35.4636px, -31.6792px, 0px)" }}>
+
+					<div className="img_holder layer" data-depth="0.5" style={{ "display": "flex", "left": "0px", "top": "0px", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden", "transform": "translate3d(35.4636px, -31.6792px, 0px)" }}>
 						<img src="img/thumb/500-560.jpg" alt="" />
 						<div className="abs_img" data-bg-img="img/about/right2.jpg" style={{ "backgroundImage": "url(img/about/right2.jpg)" }}></div>
-					</div>
-					<div className="dots layer" data-switch="disable" data-depth="0.9" style={{ "position": "absolute", "display": "block", "left": "0px", "top": "0px", "transform": "translate3d(63.8345px, -57.0226px, 0px)", "transformStyle": "preserve-3d", "backfaceVisibility": "hidden" }}>
-						<img src="img/thumb/500-560.jpg" alt="" />
 					</div>
 				</div>
 			</div>
@@ -204,7 +200,7 @@ export default function Index() {
 										</Slide>
 										<p>Do you feel totally overwhelmed by your junk situation? Do you have one or two large items that might be hazardous or at the very least challenging for you to remove on your own? Designation Dump is available to help! To begin with anything you could have in mind, get in touch with us right away. You can use our expertise, equipment, friendliness, and professionalism to solve any problems you might be having. Everything can be handled by us in the safest, most effective way possible.</p>
 										<p>For local communities, junk disposal is a crucial component of sustainable waste management. It allows us to reuse or properly dispose of materials that might otherwise be thrown out as trash and helps keep our environment clean. Additionally, it lessens the quantity of trash that is disposed of in landfills and incinerators, making the world a cleaner and safer environment.</p>
-										<p>We provide junk removal services for home and commercial clients, including but not limited to offices, retail establishments, offices, and building sites. We take pleasure in our customer service and enjoy a challenge, so we take on any challenging jobs, no matter how big or small, and we always make sure that your waste is disposed appropriately, whether that means being recycled, donated, or in some other way.</p>
+										<p>We provide junk removal services for home and commercial clients, including but not limited to offices, retail establishments, construction sites, and building sites. We take pleasure in our customer service and enjoy a challenge, so we take on any challenging jobs, no matter how big or small, and we always make sure that your waste is disposed appropriately, whether that means being recycled, donated, or in some other way.</p>
 									</div>
 									<div className="listWrapper" style={{ "backgroundImage": `url(${footerImage})`, "backgroundAttachment":"fixed","backgroundSize":"cover"  }}>
 									<div className="listBorder" style={{ "background": "#374736c4"  }}>
