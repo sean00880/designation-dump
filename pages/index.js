@@ -155,12 +155,7 @@ export default function Index() {
 					<h3 className="title">We are Designation Dump</h3>
 									</Flip>
 									
-					<p> Designation Dump is a rising pioneer when it comes to offering waste management services in Canal Winchester, Ohio, and the nearby areas in Columbus, Ohio..</p>
-					<p>We are devoted to offering the highest caliber of work with professionalism to keep your enviorenment clean and safe.</p>
-				</div>
-				<div className="sign_holder">
-					<h3 className="name">Josh D. Reichley</h3>
-					<p className="occ">C.E.O.</p>
+					<p> Designation dump is a junk removal company that is located in Canal Winchester, Ohio. We are a group of young men with a vision to clean up one property at a time. We have integrity, and we are absolutely sure you will love the communication and work we do for you. We donate anything we can that is in good condition to local charities such as Salvation Army or Habatit for Humanity. There are instances where we can find new owners for certain items we try to re use as much as we can.</p>
 				</div>
 			</div>
 					</Fade>
