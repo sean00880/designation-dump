@@ -1631,6 +1631,11 @@ a:focus {
 	clear: both;
 	margin-bottom: 50px;
 }
+
+.widget_brochure{
+	display:none;
+}
+
 .industify_fn_sidebarpage .wid-title span{
 	color: #041230;
 }

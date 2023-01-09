@@ -50,10 +50,13 @@ export default function ServiceSingle3() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Today’s energy and commodities industries power and feed the world economy. The efficient and effective operation of these projects is vital to sustained energy growth and environmental support. By utilizing Industify’s global energy and commodity testing, inspection, and certification services, businesses can design, develop, manufacture and run more successful and valuable products and processes.</p>
-										<p>Industify’s range of energy expertise works to support clients operating in businesses as diverse as oil and gas, petroleum refining and distribution, petrochemicals, power generation, nuclear power, solar, biofuels, tidal, wave and wind power. This affords us a high-level, cross-sectional view of energy industry topics and trends that affect current and future business development, providing insight and opportunities that may otherwise go undetected. Our global network also provides logistical, testing, inspection, certification and consulting expertise to assist clients in running their operations more efficiently and safely while protecting expensive assets, products and infrastructure.</p>
-										<p>Commodities are the raw materials which the modern world depends upon for manufactured materials, products and food. We help producers, distributors and processors of these raw materials benefit from optimising their quality control, loss control and financial risk reduction. Products and processes are all enhanced by partnering with Industify, leading to a more successful product and path for all involved.</p>
-									</div>
+									<h1>Storage Unit Cleanouts near Columbus, OH</h1>
+										<p>Even though storage rooms are meant to be a temporary solution for storing valuables, a lot of trash can accumulate in them overtime when ignored. Designation Dump is ready to take assist. Your life will be made easy by our team of experts who have been professionally trained in storage unit cleanouts by loading everything and dragging it away.</p>
+
+<p>Without any further involvement from you, the objects will then be recycled or donated. We can assist you in clearing out your lot, whether we are dealing with abandoned garbage or objects that failed to sell at an auction.</p>
+
+<p>Get in touch with us to arrange a free storage unit cleanout estimate so we can get started on your project right away.</p>
+										</div>
 
 									{/* Check List Shortcode */}
 									<div className="fn_cs_check_list">

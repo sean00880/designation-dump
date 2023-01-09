@@ -315,7 +315,7 @@ export default function Services() {
 												</div>
 												<div className="title">
 													<h3><Link href="/services/construction-removal"><a>Construction Debris Removal</a></Link></h3>
-													<p>Get your medical device tested and into the hands of your customers faster than ever before. Time to market starts with partnership, and for more</p>
+													<p>You can rely on Designation Dump to dispose of any construction debris that needs to be cleared from your worksite with efficiency.</p>
 												</div>
 												<div className="read_more">
 													<Link href="/services/construction-removal"><a>Read More</a></Link>
@@ -327,12 +327,12 @@ export default function Services() {
 										<div className="item">
 											<div className="item_in">
 												<div className="img_holder">
-													<div className="img_abs" style={{ "backgroundImage": "url(img/service/single/8.jpg)" }}></div>
+													<div className="img_abs" style={{ "backgroundImage": "url(img/service/single/3.jpg)" }}></div>
 													<Link href="/services/shed-removal"><a></a></Link>
 												</div>
 												<div className="title">
 													<h3><Link href="/services/shed-removal"><a>Shed Removal</a></Link></h3>
-													<p>Our manufacturing services provide assurance to clients that their people, processes, and products are as safe and efficient as possible. From logistics and compliance, to</p>
+													<p>Sheds naturally draw clutter, and they have a propensity to accumulate clutter and disorder over time. By contacting us for our shed removal services in Ohio right away, you can bring your shed back to its former splendor.</p>
 												</div>
 												<div className="read_more">
 													<Link href="/services/shed-removal"><a>Read More</a></Link>
@@ -344,12 +344,12 @@ export default function Services() {
 										<div className="item">
 											<div className="item_in">
 												<div className="img_holder">
-													<div className="img_abs" style={{ "backgroundImage": "url(img/service/single/8.jpg)" }}></div>
+													<div className="img_abs" style={{ "backgroundImage": "url(img/service/single/2.jpg)" }}></div>
 													<Link href="/services/deck-removal"><a></a></Link>
 												</div>
 												<div className="title">
 													<h3><Link href="/services/deck-removal"><a>Deck Removal</a></Link></h3>
-													<p>Our manufacturing services provide assurance to clients that their people, processes, and products are as safe and efficient as possible. From logistics and compliance, to</p>
+													<p>There are alternative methods for getting rid of your old deck, but nothing makes the process easier and more affordable than hiring our professionals at Designation Dump.We provide complete deck, gazebo, and patio demolition and removal for both, residential as well as commercial properties. You direct us and we carry out the task!</p>
 												</div>
 												<div className="read_more">
 													<Link href="/services/deck-removal"><a>Read More</a></Link>

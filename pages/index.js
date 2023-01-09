@@ -713,7 +713,7 @@ export default function Index() {
 												<img src="img/thumb/370-250.jpg" alt="" />
 											</div>
 											<div className="title_holder">
-												<p className="t_header">By <Link href="#"><a>Decoded Web</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
+												<p className="t_header">By <Link href="#"><a>Designation Dump</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
 												<h3><Link href="/blog-single-1"><a>How much does removing junk cost?</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-1"><a>Read More</a></Link></p>
 											</div>
@@ -732,7 +732,7 @@ export default function Index() {
 												<img src="img/thumb/370-250.jpg" alt="" />
 											</div>
 											<div className="title_holder">
-												<p className="t_header">By <Link href="#"><a>Decoded Web</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
+												<p className="t_header">By <Link href="#"><a>Designation Dump</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
 												<h3><Link href="/blog-single-2"><a>Best Seasons For Junk Removal</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-2"><a>Read More</a></Link></p>
 											</div>
@@ -751,7 +751,7 @@ export default function Index() {
 												<img src="img/thumb/370-250.jpg" alt="" />
 											</div>
 											<div className="title_holder">
-												<p className="t_header">By <Link href="#"><a>Decoded Web</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
+												<p className="t_header">By <Link href="#"><a>Designation Dump</a></Link> — In <Link href="#"><a>Columbus, OH</a></Link></p>
 												<h3><Link href="/blog-single-3"><a>Why Use a Junk Removal Company Before Selling a Property?</a></Link></h3>
 												<p className="t_footer"><Link href="/blog-single-3"><a>Read More</a></Link></p>
 											</div>
