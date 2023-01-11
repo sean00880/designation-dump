@@ -56,9 +56,7 @@ export default function ServiceSingle3() {
 									<h1>Residential Property Cleanout</h1>
 										<p>A few of the household cleanout services we provide at Designation Dump include garbage collection, attic storage cleanout, garage cleanout, and estate cleanout. We also remove unwanted appliances like microwaves, televisions and refrigerators, recycle waste, and get rid of mattress box springs and other large objects that can't fit in the typical dumpster.</p>
 										<p>We can handle everything, from one-off projects for private homes to regular schedules for REO property flippers, thanks to our expertise to provide full-service removal, hauling, and disposal. As soon as we get there, we go to work clearing out all of your extra items, whether they are from the garage, the basement, or the entire house.</p>
-										<h1>Commercial Property Cleanout</h1>
-										<p> For your commercial property cleanout needs in Ohio, we offer professional junk removal and disposal. We can handle any size clean-up assignment. We can clear out any commercial property, from tiny workshops to huge industrial complexes. To make sure that the cleanout of your property is safe and doesn't hurt the environment, we also handle the collection and recycling of electronic waste.</p>
-									</div>
+										</div>
 
 									{/* Check List Shortcode */}
 									<div className="fn_cs_check_list">

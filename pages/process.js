@@ -37,12 +37,11 @@ export default function Principles() {
 									<div className="item">
 										<div className="item_left">
 											<h2>01.</h2>
-											<h3>Pick Your Servive</h3>
+											<h3>Pick Your Service</h3>
 										</div>
 										<div className="item_right">
 											<p>Browse through our wide list junk removal and cleanout servies.</p>
-											<p>Vestibulum ac pellentesque dui. Phasellus accumsan enim ex, eu pulvinar nibh sodales sed. Nunc massa urna, varius pellentesque pulvinar quis, laoreet faucibus lectus. Integer vulputate leo a cursus laoreet. Curabitur a mi vitae velit faucibus viverra eget at enim.</p>
-											<p>Fusce interdum eget enim ac venenatis. Curabitur sem massa, placerat a metus in, laoreet tincidunt eros. Sed neque lorem, tincidunt non dapibus quis, pharetra porttitor mauris.</p>
+											
 										</div>
 									</div>
 								</li>
@@ -50,12 +49,10 @@ export default function Principles() {
 									<div className="item">
 										<div className="item_left">
 											<h2>02.</h2>
-											<h3>Passion</h3>
+											<h3>Initiate FREE Quote Request</h3>
 										</div>
 										<div className="item_right">
-											<p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
-											<p>Vestibulum ac pellentesque dui. Phasellus accumsan enim ex, eu pulvinar nibh sodales sed. Nunc massa urna, varius pellentesque pulvinar quis, laoreet faucibus lectus. Integer vulputate leo a cursus laoreet. Curabitur a mi vitae velit faucibus viverra eget at enim.</p>
-											<p>Fusce interdum eget enim ac venenatis. Curabitur sem massa, placerat a metus in, laoreet tincidunt eros. Sed neque lorem, tincidunt non dapibus quis, pharetra porttitor mauris.</p>
+											<p>Reach out to us with a description of your needs. Please be as descriptive as possible so we can provide you with accurate quotes.</p>
 										</div>
 									</div>
 								</li>
@@ -63,38 +60,10 @@ export default function Principles() {
 									<div className="item">
 										<div className="item_left">
 											<h2>03.</h2>
-											<h3>Quality Work</h3>
+											<h3>Receive Professional Junk Removal Service</h3>
 										</div>
 										<div className="item_right">
-											<p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
-											<p>Vestibulum ac pellentesque dui. Phasellus accumsan enim ex, eu pulvinar nibh sodales sed. Nunc massa urna, varius pellentesque pulvinar quis, laoreet faucibus lectus. Integer vulputate leo a cursus laoreet. Curabitur a mi vitae velit faucibus viverra eget at enim.</p>
-											<p>Fusce interdum eget enim ac venenatis. Curabitur sem massa, placerat a metus in, laoreet tincidunt eros. Sed neque lorem, tincidunt non dapibus quis, pharetra porttitor mauris.</p>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div className="item">
-										<div className="item_left">
-											<h2>04.</h2>
-											<h3>Honesty</h3>
-										</div>
-										<div className="item_right">
-											<p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
-											<p>Vestibulum ac pellentesque dui. Phasellus accumsan enim ex, eu pulvinar nibh sodales sed. Nunc massa urna, varius pellentesque pulvinar quis, laoreet faucibus lectus. Integer vulputate leo a cursus laoreet. Curabitur a mi vitae velit faucibus viverra eget at enim.</p>
-											<p>Fusce interdum eget enim ac venenatis. Curabitur sem massa, placerat a metus in, laoreet tincidunt eros. Sed neque lorem, tincidunt non dapibus quis, pharetra porttitor mauris.</p>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div className="item">
-										<div className="item_left">
-											<h2>05.</h2>
-											<h3>Humility</h3>
-										</div>
-										<div className="item_right">
-											<p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
-											<p>Vestibulum ac pellentesque dui. Phasellus accumsan enim ex, eu pulvinar nibh sodales sed. Nunc massa urna, varius pellentesque pulvinar quis, laoreet faucibus lectus. Integer vulputate leo a cursus laoreet. Curabitur a mi vitae velit faucibus viverra eget at enim.</p>
-											<p>Fusce interdum eget enim ac venenatis. Curabitur sem massa, placerat a metus in, laoreet tincidunt eros. Sed neque lorem, tincidunt non dapibus quis, pharetra porttitor mauris.</p>
+											<p>Just welcome us at your doorstep and direct us to the junk. Our professionals will handle the rest. </p>
 										</div>
 									</div>
 								</li>

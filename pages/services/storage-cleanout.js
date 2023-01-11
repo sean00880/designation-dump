@@ -11,7 +11,7 @@ import List from '../../layout/list'
 export default function ServiceSingle3() {
 	return (
 		<>
-			<Title title='Service Single 5' />
+			<Title title='Storage Unit Cleanout' />
 			<Layout>
 				{/* Page Title */}
 				<div className="industify_fn_pagetitle">

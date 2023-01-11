@@ -49,8 +49,23 @@ export default function ServiceSingle2() {
 									</div>
 
 									<div className="desc_holder">
-										<p>Industify’s tailored solutions enable retailers, brands and manufacturers of textile products, apparel and home textiles to ensure the safety, quality and performance of their products with precision, resulting in increased speed to market.</p>
-										<p>Industify performs textile testing on items ranging from fabric samples to finished products, including activewear, apparel for children and adults (pajamas, sweaters, jeans, outerwear), fashion accessories (scarves, belts) and soft home furnishings (bedding, curtains, upholstery). We help our customers go beyond regulatory requirements to consistently meet consumer demand for high quality, minimize reputational risk, reduce environmental impacts and protect the interests of retailers, brands, textile manufacturers and consumer safety.</p>
+									<p>Your commercial business needs a dependable junk removal service to keep that commercial property clean and marketable, whether you're a business owner, real estate agent, or property manager. Sometimes homes need to be updated or made ready for new tenants.</p>
+										<p>While some waste management firms would set up a special pick up, there are always additional costs involved. That might work for you if that's the case and you just require it around once a year.</p>
+									<h1>Commercial Property Cleanout</h1>
+										<p> For your commercial property cleanout needs in Ohio, we offer professional junk removal and disposal. We can handle any size clean-up assignment. We can clear out any commercial property, from tiny workshops to huge industrial complexes. To make sure that the cleanout of your property is safe and doesn't hurt the environment, we also handle the collection and recycling of electronic waste.</p>
+										<p>Finding another method to complete the task is necessary if that is not an option or if you frequently need massive commercial garbage removed, and that's where Designation Dump's full 'Commercial Cleanout' service comes in.</p>
+
+									<h1>Advantages of Full Property Cleanout</h1>
+									<h3>1) Convenience</h3>
+									<p>You as the owner or manager must take into account the time required for cleaning out, loading, carrying, and disposing of your company's junk. You may be looking at a significant number of hours and potentially even days lost, depending on the size and volume of the garbage involved.</p>
+									<h3>2) Money</h3>
+									<p>When weighing your options, it is not sufficient to only examine the price of hiring a reputable rubbish removal company, such as Junk King. The pay paid to your workers (or to yourself) to load and haul your rubbish must also be taken into account, along with the expense of other job that isn't getting done.</p>
+									<h3>3) Professional</h3>
+									<p>Too many companies just relocate their extra furniture, equipment, and other clutter from one storage location to another. They don't take action because they don't want to have to sort, load, move, and dispose of all that things.</p>
+									<h3>4) Safety</h3>
+									<p>Moving junk may seem like a simple task, but it can be dangerous depending on the amount and type of waste you have. Cuts, abrasions, and back strains are all too common due to the huge, heavy, and bulky nature of office furniture, equipment, and other items. Taking away the trash is not the same as removing commercial crap!</p>
+									<h4>5) Satisfaction</h4>
+									<p>Junk removal and disposal properly involves much more than just loading items into a vehicle and driving them to the dump. Using a professional firm is a preferable option in large part because they are aware of what can be lawfully disposed of and where to remove it.</p>
 									</div>
 
 									{/* Check List Shortcode */}

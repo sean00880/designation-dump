@@ -51,17 +51,16 @@ export default function ServiceSingle3() {
 
 									<div className="desc_holder">
 									<h1>Appliance Removal near Columbus, OH</h1>
-										<p>If your deck's connectors seem to be falling apart or the planks are getting flimsy or unstable, your deck may be troublesome. It could be best to tear down your deck for everyone's safety to prevent unprecedented injuries.</p>
 										<p>The fact remains that removing appliances is almost never a one-person job. The majority of large appliances are far too heavy for just one or two individuals. Large appliances are not only notoriously difficult to pick up and transport, but they are also challenging to get rid of.</p>
 			
 										<p>We provide complete deck, gazebo, and patio demolition and removal for both, residential as well as commercial properties. You direct us and we carry out the task!</p>
-										<h1>How Much Will Deck Removal Cost?</h1>
-										<p>Prices are determined on how much rubbish we haul away. There are no additional expenses because all rates include labor, tax, and disposal fees. We have reasonable charges, and we'll always give you a quote up front before beginning any job. Send us a picture of your stuff via SMS, and we'll reply with an estimate. A free, no-obligation estimate at your home or place of business is the best way for us to provide you with the lowest, most accurate quote. In Cincinnati, Dayton, and Southwest Ohio, we provide the deck removal service at the most competitive price.</p>
+										<h1>The Significance of Recycling Appliances</h1>
+										<p>Metal recycling lessens the environmental impact of using metals, which can be expensive and harmful to the environment when produced fresh. Many smaller appliances include materials that, when left to deteriorate in a landfill, can release gases into the air and other pollutants that can pollute the soil and water supplies.
+
+Some localities require the recycling of specific small appliances. However, even if there isn't a rule in place to prohibit certain products from ending up in landfills, recycling these items is always necessary.</p>
 									
-										<h1>The Deck Removal Process</h1>
-										<p>Designation Dump will start removing the deck after all safety precautions have been fulfilled, utilizing specialist cutting tools and equipment. Depending on how big the deck is, we might use saws or sledgehammers to cut it into smaller pieces that can be moved and disposed of more readily. Every piece of the deck will have any nails or screws used for assembly meticulously removed and disposed.</p>
-										<h1>Post-Work Cleanup</h1>
-										<p>We will clear away any dust or debris that has accumulated during the demolition process before leaving your site clean and ready for future development prospects to guarantee that your property is safe and orderly once we have finished our work.</p>
+										<h1>Our Process</h1>
+										<p>Old appliances are moved by Designation Dump in a safe, effective, and environmentally responsible manner. Whether it's a business or residential property, we can take up both big and small appliances from your house, workplace, storage facility, or virtually any other location you own. In the Canal Winchester region, we are the rising  industry pioneers in junk removal.</p>
 										</div>
 
 									{/* Check List Shortcode  */}
@@ -72,39 +71,52 @@ export default function ServiceSingle3() {
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>High-tech exploration and production methods</p>
+														<p>Refrigerator</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Cold-climate operations</p>
+														<p>Television</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Development of oil sands, heavy oil</p>
+														<p>Washer</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Gas processing, sulphur extraction</p>
+														<p>Dryer</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Construction and operation of pipelines</p>
+														<p>Stove</p>
 													</div>
 												</li>
 												<li>
 													<div className="item">
 														<Check className="fn__svg" />
-														<p>Specialized controls and computer applications</p>
+														<p>Dishwasher</p>
 													</div>
 												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Dehumidifier</p>
+													</div>
+												</li>
+												<li>
+													<div className="item">
+														<Check className="fn__svg" />
+														<p>Other Electronics & Appliances</p>
+													</div>
+												</li>
+												
 											</ul>
 										</div>
 									</div>

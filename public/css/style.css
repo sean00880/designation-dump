@@ -4616,6 +4616,7 @@ blockquote{
 	padding: 22px 20px 22px 105px;
 	border: 2px solid #eee;
 	position: relative;
+	display: none;
 }
 .fn_cs_about_with_rating .signature p{
 	margin: 0;
@@ -9547,6 +9548,10 @@ form{
 
 .list{
 	margin: 21px 0;
+}
+
+.list p{
+	text-indent: 0;
 }
 
 .fn_cs_check_list h2{

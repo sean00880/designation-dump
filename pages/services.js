@@ -281,8 +281,8 @@ export default function Services() {
 												</div>
 												<div className="title">
 													<h3><Link href="/services/storage-cleanout"><a>Storage Cleanout</a></Link></h3>
-													<p>The Shale Oil and Gas Revolution has changed the energy world. Industify has kept pace by providing crucial and timely exploration, production, quality, quantity inventory,</p>
-												</div>
+													<p>Your life will be made easy by our team of experts who have been professionally trained in storage unit cleanouts by loading everything and dragging it away.</p>
+													</div>
 												<div className="read_more">
 													<Link href="/services/storage-cleanout"><a>Read More</a></Link>
 												</div>
@@ -298,7 +298,7 @@ export default function Services() {
 												</div>
 												<div className="title">
 													<h3><Link href="/services/appliance-removal"><a>Appliance Removal</a></Link></h3>
-													<p>Today’s energy and commodities industries power and feed the world economy. The efficient and effective operation of these projects is vital to sustained energy growth</p>
+													<p>Old appliances are moved by Designation Dump in a safe, effective, and environmentally responsible manner. Whether it's a business or residential property, we can take up both big and small appliances from your house, workplace, storage facility, or virtually any other location you own.</p>
 												</div>
 												<div className="read_more">
 													<Link href="/services/appliance-removal"><a>Read More</a></Link>

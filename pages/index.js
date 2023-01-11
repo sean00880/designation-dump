@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useRef }  from 'react'
 import Services from '../components/Home/HomeServices'
 import Slider from '../components/Home/HomeSlider'
 import Layout from '../layout/layout'
@@ -8,7 +8,7 @@ import { Arrow_r, Certificate, Checked, Quotes, Stars } from '../public/svg/icon
 import { Design, Drawing, Learning, TowerCrane } from '../public/svg/service/IconService'
 import Marquee from "react-fast-marquee";
 const headerBG = "img/hero.jpg";
-
+import emailjs from '@emailjs/browser';
 const right = "/img/about/right2.jpg"
 const rightImage = "/img/service/right-image.jpg"
 const footerImage = "/img/footer/bg.jpg"
@@ -29,6 +29,18 @@ import Image from 'next/image'
 
 
 export default function Index() {
+	const form = useRef();
+
+	const sendEmail = (e) => {
+	  e.preventDefault();
+  
+	  emailjs.sendForm('service_it2ab1j', 'template_12gw11o', form.current, 'jUn1z-vodKfQLijZ7')
+		.then((result) => {
+			console.log(result.text);
+		}, (error) => {
+			console.log(error.text);
+		});
+	};
 	return (
 		<>
 			<Title title='Junk Removal Near Columbus Ohio' />
@@ -57,33 +69,32 @@ export default function Index() {
 								<Marquee className='marquee-list-container' gradientColor={0} speed={20}> <ul className="marquee-list" aria-hidden="true"><li>Commercial Cleanout</li><li>Property Cleanout</li><li>Storage Cleanout</li><li>Construction Debris Removal</li><li>Appliance Removal</li><li>Shed Removal</li><li>Deck Removal</li><li>Junk Removal</li></ul></Marquee>
                                 </div>
 									<h3 style={{"fontStyle":"italic"}}>Receive Your FREE Instant Quote!</h3>
-									<form className="contact_form" action="/" method="post" autoComplete="off" data-email="frenifyteam@gmail.com">
+									<form className="contact_form" ref={form} onSubmit={sendEmail} >
 
 
 										{/* Don't remove below code in avoid to work contact form properly.
 									You can chance dat-success value with your one. It will be used when user will try to contact via contact form and will get success message. */}
 
-										<div className="success" data-success="Your message has been received, we will contact you soon."></div>
-										<div className="empty_notice"><span style={{"fontStyle":"italic"}}>Please Fill Required Fields</span></div>
+										<div className="empty_notice"><span>Get In Touch With Us</span></div>
 										{/*  */}
 										<div className="items">
 											<div className="item">
-												<input id="name" type="text" placeholder="Name" />
+												<input id="name" type="text" name="name" placeholder="Name" />
 											</div>
 											<div className="item">
-												<input id="email" type="email" placeholder="Email" />
+												<input id="email" name="email" type="email" placeholder="Email" />
 											</div>
 											<div className="item">
-												<input id="phone" type="text" placeholder="Phone" />
+												<input id="phone" type="text" name="contact" placeholder="Phone" />
 											</div>
 											<div className="item">
-												<input id="subject" type="text" placeholder="Subject" />
+												<input id="subject" type="text" name="subject" placeholder="Subject" />
 											</div>
 											<div className="item">
-												<textarea id="message" placeholder="Message"></textarea>
+												<textarea id="message" placeholder="Message" name="message"></textarea>
 											</div>
 											<div className="item">
-												<Link href="#"><a id="send_message">Request Quote</a></Link>
+												<input id="send_message" value="Connect With Us" type="submit" />
 											</div>
 										</div>
 									</form>
@@ -452,7 +463,7 @@ export default function Index() {
 									<Fade top>
                                     <p>At Designation Dump, we rely on honesty, discipline and hard work and believe our success can be attributed to upholding a simple set of core values.</p>
 									<br />
-                                    <p>Serving an impressive list of long-term clients, we are an organization of seasoned professionals with a tremendous breadth of construction experience and expertise across multiple industries.</p>
+                                    <p>Serving an impressive list of long-term clients, we are an organization of seasoned professionals with a tremendous breadth of junk removal experience and expertise across the state of Ohio.</p>
 									</Fade>
 							    </div>
                                 <div className="right_part">
@@ -525,7 +536,7 @@ export default function Index() {
 								<p>We believe in giving back to the community. We strive to do so by donating salvagable goods, recycling and following best disposal practices to dispose the rest. Our sustainable junk removal solutions help reduce carbon emissions and protect our environement.</p>
 							</div>
 							<div className="link_holder">
-								<Link href="/contact"><a>Our Responsibility</a></Link>
+								<Link href="/contact"><a>Contact Us</a></Link>
 							</div>
 						</div>
 					</div>
@@ -534,28 +545,7 @@ export default function Index() {
 				{/* <!-- /Call to Action --> */}
 
 				{/* <!-- Testimonial Section --> */}
-				<Slide bottom>
-				<div className="testimonial_section" style={{ "backgroundImage": `url(${testimonial})` }}>
 
-					<div className="overlay"></div>
-
-					{/* <!-- Single Testimonial Shortcode --> */}
-					<div className="fn_cs_single_testimonial">
-						<div className="container">
-							<div className="inner">
-								<Quotes className="fn__svg"/>
-								<div className="content_holder">
-									<p>Hiday Motors needed to build a brand new 28,000 sf facility that would both meet our needs and comply with GMs standards - which seemed daunting, to say the least. Designation Dump alleviated all of our concerns and communicated with us every step of the way. We have received dozens of compliments from our customers, and our employees love the new store!</p>
-									<h3>Steve Lehman</h3>
-									<h5>CEO of Hiday Motors.</h5>
-								</div>
-							</div>
-						</div>
-					</div>
-					{/* <!-- /Single Testimonial Shortcode --> */}
-
-				</div>
-				</Slide>
 				{/* <!-- /Testimonial Section --> */}
 
 
