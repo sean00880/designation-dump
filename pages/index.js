@@ -26,6 +26,7 @@ import Flip from 'react-reveal/Flip';
 import Slide from 'react-reveal/Slide';
 import Spin from 'react-reveal/Spin';
 import Image from 'next/image'
+import OldBottle from '../public/svg/service/oldbottle-broken2.svg'
 
 
 export default function Index() {
@@ -225,7 +226,7 @@ export default function Index() {
 									<div className="item">
 										<Link href="/services/junk-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Learning className="fn__svg" />
+										<Image src='/svg/service/trash.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Junk <br /> Removal</h3>
 										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
@@ -241,7 +242,7 @@ export default function Index() {
 									<div className="item">
 										<Link href="/services/property-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Drawing className="fn__svg" />
+										<Image src='/svg/service/property.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Property <br />Cleanout</h3>
 										<p>Our larger trucks and professionalism will help you, whether you're preparing a space for a new tenant or need to make space in your garage. Your apartment, house, basement, attic or garage cleanout can be easily handled with Designation Dump.</p>
@@ -257,10 +258,10 @@ export default function Index() {
 									<div className="item">
 										<Link href="/services/commercial-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Design className="fn__svg" />
+										<Image src='/svg/service/commercial.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Commercial <br /> Cleanout</h3>
-										<p>Under a Construction Management contract, the client secures the services of a construction manager to work with the design team.</p>
+										<p>Finding another method to complete the task is necessary if that is not an option or if you frequently need massive commercial garbage removed, and that's where Designation Dump's full 'Commercial Cleanout' service comes in.</p>
 										<span className="more_details">
 											<Link href="#"><a>
 												More Details
@@ -274,10 +275,10 @@ export default function Index() {
 										<Link href="/services/construction-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
 										
-										<TowerCrane className="fn__svg" />
+										<Image src='/svg/service/construction.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Construction <br /> Debris Removal</h3>
-										<p>In this section, we let clients select a design-build arrangement when they want to work with one contract entity, instead of several contractors and consultants.</p>
+										<p>You can rely on Designation Dump to dispose of any construction debris that needs to be cleared from your worksite with efficiency.</p>
 										<span className="more_details">
 											<Link href="#"><a>
 												More Details
@@ -334,10 +335,6 @@ export default function Index() {
 										<p>Beyond just removing unwanted objects from your house, our junk removal services go above and beyond. We're willing to do all the labor-intensive work for your particular waste management requirements—we accept any job, no matter how big or small.</p>
 										<p>Our key mission is to reduce the carbon footprint by making the most of the garbage through donation, recycling, and limited disposal.</p>
 										</Fade>
-									</div>
-									<div className="signature">
-										<Certificate className="fn__svg" />
-										<p>We have a<br />ISO Certificate.</p>
 									</div>
 								</div>
 								<div className="right_part">

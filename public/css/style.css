@@ -9983,4 +9983,11 @@ p{
 		margin: 10px 0;
 	}
 }
+.icon{
+	padding:4px;
+}
+.service_icon{
+	background-color: white;
+	border-radius: 10px;
+}
 

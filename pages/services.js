@@ -7,7 +7,7 @@ const footerImage = "/img/footer/bg.jpg"
 import { Arrow_r, Certificate, Checked, Quotes, Stars } from '../public/svg/icon'
 import { Design, Drawing, Learning, TowerCrane } from '../public/svg/service/IconService'
 import List from '../layout/list'
-
+import Image from 'next/image'
 
 
 export default function Services() {
@@ -67,7 +67,7 @@ export default function Services() {
 									<div className="item">
 										<Link href="/services/junk-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Learning className="fn__svg" />
+										<Image src='/svg/service/trash.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Junk <br /> Removal</h3>
 										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
@@ -85,10 +85,10 @@ export default function Services() {
 										<Link href="/services/construction-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
 										
-										<TowerCrane className="fn__svg" />
+										<Image src='/svg/service/construction.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Construction <br /> Debris Removal</h3>
-										<p>In this section, we let clients select a design-build arrangement when they want to work with one contract entity, instead of several contractors and consultants.</p>
+										<p>You can rely on Designation Dump to dispose of any construction debris that needs to be cleared from your worksite with efficiency.</p>
 										<span className="more_details">
 											<Link href="#"><a>
 												More Details
@@ -101,10 +101,10 @@ export default function Services() {
 									<div className="item">
 										<Link href="/services/appliance-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Learning className="fn__svg" />
+										<Image src='/svg/service/appliance.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Appliance <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
+										<p>Old appliances are moved by Designation Dump in a safe, effective, and environmentally responsible manner. Whether it's a business or residential property, we can take up both big and small appliances from your house, workplace, storage facility, or virtually any other location you own.</p>
 										<span className="more_details">
 											<Link href="/services/appliance-removal"><a>
 												More Details
@@ -117,10 +117,10 @@ export default function Services() {
 									<div className="item">
 										<Link href="/services/shed-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Learning className="fn__svg" />
+										<Image src='/svg/service/shed.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Shed <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
+										<p>Shed removal can get tricky. However, with the right professional help, this task can be made simple. Take us to the shed when we get to your property so we can start evaluating the task at hand.</p>
 										<span className="more_details">
 											<Link href="/services/shed-removal"><a>
 												More Details
@@ -131,12 +131,12 @@ export default function Services() {
 								</li>
 								<li>
 									<div className="item">
-										<Link href="/services/shed-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
+										<Link href="/services/deck-removal"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Learning className="fn__svg" />
+										<Image src='/svg/service/deck1.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Deck <br /> Removal</h3>
-										<p>We provide quality junk removal services for private residences including houses, apartments, and condos. We manage all the labor-intensive lifting and moving while accommodating your hectic schedule.</p>
+										<p>We provide complete deck, gazebo, and patio demolition and removal for both, residential as well as commercial properties. You direct us and we carry out the task!</p>
 										<span className="more_details">
 											<Link href="/services/deck-removal"><a>
 												More Details
@@ -154,7 +154,7 @@ export default function Services() {
 									<div className="item">
 										<Link href="/services/commercial-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Design className="fn__svg" />
+										<Image src='/svg/service/commercial.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Commercial <br /> Cleanout</h3>
 										<p>Under a Construction Management contract, the client secures the services of a construction manager to work with the design team.</p>
@@ -171,7 +171,7 @@ export default function Services() {
 									<div className="item">
 										<Link href="/services/property-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Drawing className="fn__svg" />
+										<Image src='/svg/service/property.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Property <br />Cleanout</h3>
 										<p>Our larger trucks and professionalism will help you, whether you're preparing a space for a new tenant or need to make space in your garage. Your apartment, house, basement, attic or garage cleanout can be easily handled with Designation Dump.</p>
@@ -187,7 +187,7 @@ export default function Services() {
 									<div className="item">
 										<Link href="/services/storage-cleanout"><a></a></Link><span className="bg1"></span><span className="bg2"></span>
 										<span className="icon">
-										<Drawing className="fn__svg" />
+										<Image src='/svg/service/storage.png' width='100' height='100' className="service_icon"/>
 										</span>
 										<h3>Storage <br />Cleanout</h3>
 										<p>Our larger trucks and professionalism will help you, whether you're preparing a space for a new tenant or need to make space in your garage. Your apartment, house, basement, attic or garage cleanout can be easily handled with Designation Dump.</p>
@@ -247,7 +247,7 @@ export default function Services() {
 												</div>
 												<div className="title">
 													<h3><Link href="/services/property-cleanout"><a>Property Cleanout</a></Link></h3>
-													<p>Our manufacturing services provide assurance to clients that their people, processes, and products are as safe and efficient as possible. From logistics and compliance, to</p>
+													<p>Whether you're a business owner, real estate agent, or property manager, your commercial business needs a reliable junk removal service to keep that commercial property clean and marketable. Sometimes properties need remodeling or preparation for new tenants.</p>
 												</div>
 												<div className="read_more">
 													<Link href="/services/property-cleanout"><a>Read More</a></Link>
