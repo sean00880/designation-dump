@@ -96,7 +96,7 @@ export default function Footer() {
                                 </div>
                             </div>
                             <div className="footer_copyright">
-                                <p>&copy; 2023 | Designation Dump, LLC. All Rights Reserved <br /> Website by <Link href="https://www.decodedweb.us/"><a target="_blank" rel="noreferrer">Decoded Web</a></Link></p>
+                                <p>&copy; 2023 | Designation Dump, LLC. All Rights Reserved <br /> Website by <Link href="https://www.sitedominion.com/"><a target="_blank" rel="noreferrer">Site Dominion LLC</a></Link></p>
                             </div>
                             <Link href="#">
                                 <a className="industify_fn_totop">
